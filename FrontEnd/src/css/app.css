@@ -1,0 +1,30 @@
+/* Custom color theme properties */
+:root {
+  --f7-theme-color: #005dba;
+  --f7-theme-color-rgb: 0, 93, 186;
+  --f7-theme-color-shade: #FFFFFF;
+  --f7-theme-color-tint: hsl(0, 0%, 100%);
+}
+div.shadow {
+    position:absolute;
+    max-width:45%;
+    max-height:45%;
+    top:50%;
+    left:50%;
+    overflow:visible;
+}
+div.shadow_corner {
+    position:absolute;
+    max-width:22.5%;
+    max-height:22.5%;
+    top:22.5%;
+    left:75%;
+    overflow:visible;
+}
+img.logo {
+    position:relative;
+    max-width:100%;
+    max-height:100%;
+    margin-top:0%;
+    margin-left:-53%;
+}

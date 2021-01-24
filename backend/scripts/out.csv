@@ -1,0 +1,1028 @@
+region,ccg,name,postal_code,latitude,longitude
+East of England,NHS Basildon & Brentwood CCG,Brentwood Centre,CM15 9NN,51.6348739,0.2997175
+East of England,NHS Bedfordshire CCG,Shefford Health Centre,SG17 5FS,52.0347173,-0.3218438
+East of England,NHS Cambridgeshire & Peterborough CCG,Cathedral Medical Centre,CB6 1DN,52.413298,0.2749962
+East of England,NHS Cambridgeshire & Peterborough CCG,Staploe Medical Centre,CB7 5JD,52.3351566,0.3429604000000001
+East of England,NHS East & North Herts CCG,"Barclay Hall, Hoddesdon Parish Church",EN11 8TR,51.76250599999999,-0.011945
+East of England,NHS East & North Herts CCG,Moors Walk Surgery,AL7 2BQ,51.801033,-0.172779
+East of England,NHS East & North Herts CCG,Parkway Surgery,AL8 6HG,51.8027835,-0.2090117
+East of England,NHS Herts Valley CCG,Sheepcot Medical Centre,WD25 7NL,51.694961,-0.4129789
+East of England,NHS Herts Valley CCG,The Colne Practice,WD3 7DJ,51.6367552,-0.4813456
+East of England,NHS Ipswich & East Suffolk CCG,Two Rivers Medical Centre,IP4 5PB,52.06021519999999,1.1955724
+East of England,NHS Luton CCG,Kingsway Health Centre,LU4 8BY,51.8900076,-0.4425854
+East of England,NHS Mid Essex CCG,Danbury Medical Centre,CM3 4QL,51.7160123,0.586299
+East of England,NHS Milton Keynes CCG,Whaddon Medical Centre,MK3 7TT,51.9997553,-0.7668258
+East of England,NHS Norfolk & Waveney CCG,Fakenham Medical Practice 		,NR21 8SY,52.839341,0.867618
+East of England,NHS Norfolk & Waveney CCG,Kirkley Mill,NR33 0HF,52.46811520000001,1.7437936
+East of England,NHS Norfolk & Waveney CCG,Lionwood Medical Practice ,NR1 4NU,52.633275,1.3195205
+East of England,NHS Norfolk & Waveney CCG,St James Medical Practice,TA1 1JP,51.0180217,-3.1019673
+East of England,NHS Norfolk & Waveney CCG,Swanton Morley Surgery ,NR20 4LT,52.7020381,0.981378
+East of England,NHS North East Essex CCG,St Helena Tendring Centre,CO15 1JP,51.788598,1.1503214
+East of England,NHS Thurrock CCG,Stifford Clays Health Centre,RM16 2AP,51.4975438,0.3279775
+East of England,NHS West Essex CCG,Stansted Surgery,CM24 8XG,51.902051,0.200475
+East of England,NHS West Suffolk CCG ,Swan Surgery,IP33 1AE,52.24882849999999,0.7172234
+London,NHS Barking and Dagenham CCG,Barking Hospital+C4,IG11 9LX,51.5386657,0.0986528
+London,NHS Newham CCG ,Liberty Bridge (Sir Ludwig Guttman),E20 1AS,51.5487124,-0.0053266
+London,NHS North Central London CCG,Bingfield ,NE19 2LF,55.04701799999999,-2.0334439
+London,NHS North Central London CCG,Lordship Lane Health Centre,N17 6AA,51.597241,-0.0805037
+London,NHS South East London CCG ,Hurley Clinic,SE11 4HJ,51.4906759,-0.1070718
+London,NHS South East London CCG,Bursted Wood Surgery,DA7 6HZ,51.46576520000001,0.1534125
+London,NHS South West London CCG,The Wilson Hospital,CR4 4LD,51.3973193,-0.162985
+London,NHS South West London CCG,Fairhill Medical Practice  ,KT2 7PX,51.41717209999999,-0.2825381
+Midlands,NHS Herefordshire and Worcestershire CCG,Ombersley Medical Centre,WR9 0EL,52.27735699999999,-2.2288826
+Midlands,NHS Herefordshire and Worcestershire CCG,Riverside Surgery,23606,37.0852727,-76.48879579999999
+Midlands,NHS Herefordshire and Worcestershire CCG,Stourport Medical Centre,DY13 8EH,52.3434434,-2.2770436
+Midlands,NHS Lincolnshire CCG,Louth Hospital,LN11 0EU,53.3702224,-0.0084531
+Midlands,NHS Lincolnshire CCG,The Table Tennis Club Grantham Meres,NG31 7XQ,52.9070646,-0.6654624
+Midlands,NHS Birmingham and Solihull CCG,Sparkhill Primary Care Centre,B11 4BW,52.4444676,-1.8585405
+Midlands,NHS Birmingham and Solihull CCG,West Heath Surgery,B31 3HB,52.4011542,-1.9620318
+Midlands,NHS Dudley CCG,Feldon Lane Medical Practice,B62 9DR,52.4670809,-2.0291611
+Midlands,NHS Dudley CCG,Northway Medical Practice,DY3 3QY,52.54807109999999,-2.1309869
+Midlands,NHS Birmingham and Solihull CCG,Chelmsley Wood,B37,52.479201,-1.7326305
+Midlands,NHS North Staffordshire CCG,Ryecroft Surgery,ST5 6PS,53.0156944,-2.2669634
+Midlands,NHS Northamptonshire CCG,Nene Valley Surgery,NN14 4QL,52.4000052,-0.5367371
+Midlands,NHS Northamptonshire CCG,Nene Valley Surgery,PE2 5GP,52.5475942,-0.2820305
+Midlands,NHS Northamptonshire CCG,Queensway Medical Centre,NN8 3QE,52.3049823,-0.7175436
+Midlands,NHS Northamptonshire CCG,Weedon Surgery,NN7 4RX,52.2257753,-1.0814668
+Midlands,NHS Sandwell and West Birmingham CCG,Enki Medical ,B19 1BP,52.5013375,-1.9213699
+Midlands,NHS Shropshire CCG,Bridgnorth Medical Practice,WV16 4EN,52.5379089,-2.4229409
+Midlands,NHS Stoke on Trent CCG,Smallthorne Branch Surgery,ST6 1SA,53.0508448,-2.1727357
+Midlands,NHS Stoke on Trent CCG,Smallthorne Branch Surgery,ST6 7NN,53.0563484,-2.1742364
+Midlands,NHS Wolverhampton CCG,Wood Road Surgery,WV6 8NF,52.59022119999999,-2.1809987
+North East & Yorkshire,NHS Barnsley CCG,Priory Campus,S71 5PN,53.5561948,-1.4407674
+North East & Yorkshire,NHS Bradford District and Craven CCG,Canalside Healthcare Centre,BD16 4RP,53.8470234,-1.8287104
+North East & Yorkshire,NHS Bradford District and Craven CCG,Long Lee,BD21,53.8586538,-1.8917121
+North East & Yorkshire,NHS Bradford District and Craven CCG,Skipton Hospital,BD23 2RJ,53.9552504,-2.0188237
+North East & Yorkshire,NHS Calderdale CCG,Spring Hall Surgery,HX1 4JG,53.7216275,-1.8925819
+North East & Yorkshire,NHS County Durham CCG,Tanfield View Medical Centre,DH9 8AD,54.8698886,-1.7012196
+North East & Yorkshire,NHS Doncaster CCG,The Rutland Centre,LE1 1TQ,52.6350705,-1.1280493
+North East & Yorkshire,NHS East Riding of Yorkshire CCG,Brough Surgery,HU15 1AY,53.728946,-0.567684
+North East & Yorkshire,NHS East Riding of Yorkshire CCG,Church View Surgery,PL9 9BN,50.357225,-4.0865178
+North East & Yorkshire,NHS Hull CCG ,KC Stadium,HU3 6HU,53.7459183,-0.3680605
+North East & Yorkshire,NHS Leeds CCG,Craven Road Medical Practice,LS6 2RX,53.814169,-1.5472875
+North East & Yorkshire,NHS Leeds CCG,East Park Medical Centre,LS9 9JD,53.7941764,-1.5178071
+North East & Yorkshire,NHS Leeds CCG,Hillfoot,S6 1HP,53.4153594,-1.4989013
+North East & Yorkshire,NHS Newcastle and Gateshead CCG,Birtley Medical Group,DH3 2QT,54.8919249,-1.576421
+North East & Yorkshire,NHS North Cumbria CCG,Flatt Walks Health Centre,CA28 7QE,54.544807,-3.5867937
+North East & Yorkshire,NHS North Cumbria CCG,North Carlisle Medical Practice,CA3 9JZ,54.9101231,-2.9429626
+North East & Yorkshire,NHS North Yorkshire CCG,Derwent Practice,YO17 9RF,54.1327756,-0.7975719
+North East & Yorkshire,NHS North Yorkshire CCG,Filey Surgery,YO14 9AE,54.20982069999999,-0.291978
+North East & Yorkshire,NHS Northumberland CCG,Lintonville,NE63,55.1843866,-1.5699861
+North East & Yorkshire,NHS Rotherham CCG,Anston Medical Centre,S25 4DB,53.357316,-1.2231424
+North East & Yorkshire,NHS Sheffield CCG,The Health Care Surgery,S5 8GS,53.4226436,-1.4877423
+North East & Yorkshire,NHS Sheffield CCG,Woodhouse Health Centre,S13 7LY,53.3577807,-1.3723374
+North East & Yorkshire,NHS Sunderland CCG,Grindon Lane Primary Care Centre,SR3 4EN,54.8886506,-1.4321181
+North East & Yorkshire,NHS Tees Valley CCG ,One Life ,21701,39.4481945,-77.3944731
+North East & Yorkshire,NHS Tees Valley CCG ,One Life ,21704,39.39307,-77.411969
+North East & Yorkshire,NHS Tees Valley CCG ,Queens Park Medical Centre ,TS18 2AW,54.5691996,-1.3138588
+North East & Yorkshire,NHS Vale of York CCG,Haxby Health Centre,YO32 2LL,54.0193658,-1.0820732
+North East & Yorkshire,NHS Wakefield CCG,Church View Health Centre,WF9 3AP,53.5933333,-1.3125391
+North West,NHS Blackpool CCG,Whitegate Health Centre,FY3 9ES,53.8117355,-3.033398
+North West,NHS Bolton CCG,Tonge Moor Health Centre,BL2 2LW,53.5890116,-2.4098586
+North West,NHS Bury CCG,Prestwich Walk in Centre,M25 1BT,53.533993,-2.283613
+North West,NHS Castle Point & Rochford CCG,Puzey Family Practice,SS4 1AY,51.581471,0.7060266
+North West,NHS Chorley and South Ribble CCG,Chorley Surgery,PR7 2EJ,53.651407,-2.633232
+North West,NHS Fylde & Wyre CCG,Lytham PCC,FY8 5DZ,53.739006,-2.9473143
+North West,NHS Greater Preston CCG,ISSA Medical Centre,PR1 6YA,53.77011350000001,-2.6872585
+North West,NHS Morecambe Bay CCG,Alfred Barrow Health Centre ,LA14 2LB,54.1096387,-3.224694
+North West,NHS Cheshire CCG ,Dene Drive Primary Care Centre ,CW7 1AT,53.19033109999999,-2.5310344
+North West,NHS East Lancashire,St Peter's Centre,63376,38.7916374,-90.59631189999999
+North West,NHS Wirral CCG,Birkenhead Medical Building ,CH41 8DB,53.3982186,-3.0464026
+North West,NHS Oldham CCG,Barley Clough Medical Centre,OL4 1BN,53.5379497,-2.0962092
+South East,NHS Berkshire West CCG,Tilehurst Village Surgery,RG31 5PP,51.4612479,-1.042233
+South East,NHS Buckinghamshire CCG,Chalfont Hospital,SL9 9DR,51.6076027,-0.5616325
+South East,NHS East Sussex CCG,The Meads Medical Centre,ME10 5AA,51.3504375,0.7173379
+South East,NHS Fareham and Gosport CCG,Fareham Community Hospital,SO31 7DQ,50.8708404,-1.2753551
+South East,NHS Kent and Medway CCG,Abbey Court Medical Centre,TN4 9TF,51.13775,0.2607628
+South East,NHS Kent and Medway CCG,Mocketts Wood ,CT10 2TR,51.3666083,1.4189231
+South East,NHS Kent and Medway CCG,Queen Victoria memorial Hospital ,AL6 9PW,51.8282509,-0.2236181
+South East,NHS Kent and Medway CCG,Sheerness Health Centre,ME12 1UP,51.4364406,0.7659486
+South East,NHS North East Hampshire and Farnham CCG,Monteagle Surgery,GU46 6PY,51.33923739999999,-0.8474661
+South East,NHS Oxfordshire CCG,Chipping Norton Health Centre,OX7 5FA,51.94556110000001,-1.5351033
+South East,NHS Oxfordshire CCG,Malthouse Surgery,OX14 3JY,51.67206179999999,-1.2829563
+South East,NHS Southampton CCG ,St Peters Surgery,12206,42.6866557,-73.8135748
+South East,NHS West Sussex CCG,Park Surgery,RH12 1BG,51.06435,-0.3273649
+South East,NHS West Sussex CCG,Saxonbrook,RH10 7QH,51.1077849,-0.1535083
+South East,NHS West Sussex CCG,Angmering Medical Centre,BN16 4HL,50.8275489,-0.4864917
+South West,"NHS Bristol, North Somerset and South Gloucestershire CCG",Kingswood Health Centre,BS15 4EJ,51.4630039,-2.4999376
+South West,"NHS Bristol, North Somerset and South Gloucestershire CCG",Riverbank ,SE1 7TJ,51.491367,-0.1214208
+South West,NHS Devon CCG,"Abbey Surgery, Tavistock ",PL19 8BU,50.5479406,-4.1479776
+South West,NHS Devon CCG,Exminster Limes Surgery,EX6 8DF,50.6790024,-3.4943953
+South West,NHS Devon CCG,Exmouth Tennis Centre,EX8 3AE,50.627544,-3.405207
+South West,NHS Devon CCG,Exmouth Tennis Centre,EX8 2BU,50.613789,-3.4028693
+South West,NHS Devon CCG,Okehampton Medical Centre,EX20 1AY,50.7388248,-3.997618
+South West,NHS Dorset CCG,Heatherview Medical Centre,BH12 4AY,50.7396632,-1.912963
+South West,NHS Dorset CCG,St Leonards Hospital,BH24 2RR,50.8176159,-1.8562481
+South West,NHS Dorset CCG,Stour Surgery,BH23 1PA,50.7363515,-1.7839639
+South West,NHS Kernow CCG,Carlyon Health Hub,PL25 4EG,50.3388224,-4.783612499999999
+South West,NHS Kernow CCG,Truro Health Park,TR1 2JA,50.2601438,-5.0560925
+South West,NHS Kernow CCG,Bodmin Treatment Centre,PL31 2QT,50.4682168,-4.743069999999999
+East of England,NHS Herts Valley CCG,Club Batchwood,AL3 5XA,51.7667921,-0.354487
+North West,NHS Blackburn with Darwen CCG,Barabara Castle Way Health Centre,BB2 1AX,53.7504225,-2.4885615
+North West,NHS East Lancashire CCG,Acorn Primary Health Care Centre,BB5 1RT,53.7524581,-2.3848574
+London,NHS South East London CCG,Orpington Health and Wellbeing Centre,BR6 0FE,51.37585989999999,0.1012137
+East of England,NHS West Essex CCG,St Margaret's Hospital,CM16 6TN,51.70484279999999,0.1229417
+East of England,NHS West Essex CCG,Lister Medical Centre,CM18 6YJ,51.7543953,0.0910251
+South East,NHS Surrey Heartlands CCG,Westway Commuity Centre,CR3 5TA,51.2861109,-0.09185220000000001
+London,NHS South West London CCG,Old Coulsdon Congregational Church,CR5 1EH,51.3073304,-0.1193986
+South East,NHS Kent and Medway CCG,Minster Surgery,CT12 4AB,51.33464379999999,1.3161015
+South East,NHS Kent and Medway CCG,Swanscombe Health Centre,DA10 0BF,51.4420464,0.3119775
+NE Yorkshire,NHS County Durham CCG,Jubilee Medical Centre,L11 4UG,53.4488707,-2.9023161
+NE Yorkshire,NHS North Lincolnshire CCG,Cedar Medical Practice,DN16 2AB,53.5717443,-0.6557373
+NE Yorkshire,NHS North East Lincolnshire CCG,Beacon Medical,46617,41.6846588,-86.2446274
+NE Yorkshire,NHS Doncaster CCG,Keepmoat Stadium,DN4 5JW,53.5100517,-1.1147467
+London,NHS Tower Hamlets CCG,"The Arts Centre, Queen Mary University",E1 4NS,51.5240671,-0.0403745
+London,NHS Waltham Forest CCG,Forest Road Medical Centre,E17 5JL,51.58974449999999,-0.0260754
+London,NHS Waltham Forest CCG,Forest Road Medical Centre,N9 7HD,51.633574,-0.05334440000000001
+London,NHS City and Hackney CCG,Elsdale Street Surgery,E9 6QY,51.5430126,-0.0490683
+London,NHS North Central London CCG,Carlton House,33706,27.7388576,-82.7517544
+London,NHS North Central London CCG,Carlton House,33706,38.9983094,-104.8613176
+London,NHS Brent CCG,Wembley Centre for Health and Care,HA0 4UZ,51.5500751,-0.3059501
+London,NHS Harrow CCG,The Hive,H3W 1X2,45.48624969999999,-73.62644639999999
+NE Yorkshire,NHS Greater Huddersfield CCG,Cathedral House,CB7 4ER,52.3996917,0.2610836
+London,NHS Redbridge CCG,Redbridge Town Hall,IG1 1DD,51.558692,0.0745057
+London,NHS Redbridge CCG,Fullwell Cross Medical Centre,IG6 2HG,51.5945704,0.0838421
+London,NHS Redbridge CCG,Sir James Hawkey Hall,IG8 0BG,51.6081465,0.023382
+East of England,NHS Norfolk and Waveney CCG,Thetford Healthy Living Centre,IP24 1JD,52.42036539999999,0.7468205
+East of England,NHS West Suffolk CCG,Woolpit Health Centre,IP30 9QU,52.2228909,0.8940889
+North West,NHS Morecambe Bay CCG,"Health Innovation Centre, Lancaster Uni",LA1 4XR,54.0169067,-2.7920117
+North West,NHS Morecambe Bay CCG,"Health Innovation Centre, Lancaster Uni",LA1 4YW,54.0103942,-2.7877294
+Midlands,NHS West Leicestershire CCG,Heath Lane Surgery,LE9 7RT,52.5756912,-1.321575
+East of England,NHS Bedfordshire CCG,Priory Gardens Surgery,LU6 3SU,51.8850375,-0.519143
+South East,NHS Kent and Medway CCG,Len Valley Branch Surgery (Glebe),ME17 1AP,51.2442748,0.6809934999999999
+South East,NHS Kent and Medway CCG,Long Catlis Road Surgery,ME8 9PR,51.3481773,0.5955376
+NE Yorkshire,NHS Newcastle and Gateshead CCG,Oxford Centre,OX1 1BY,51.7523546,-1.2636866
+NE Yorkshire,NHS Northumberland CCG,Village Surgery,DE23 8AL,52.8963672,-1.4846924
+NE Yorkshire,NHS South Tyneside CCG,Flagg Court Health Centre,NE33 2LS,54.9989921,-1.4264175
+East of England,NHS Northamptonshire CCG,Harborough Field Surgery,NN10 0GP,52.2863092,-0.5818643
+East of England,NHS Northamptonshire CCG,Weavers Medical,NN16 8DN,52.4011434,-0.7339781
+East of England,NHS Northamptonshire CCG,Woodsend Medical Centre,NN18 0QP,52.4844087,-0.7117745
+East of England,NHS Northamptonshire CCG,Kingsthorpe Medical Centre,NN2 7JN,52.2581506,-0.8919682999999999
+East of England,NHS Norfolk and Waveney CCG,Falkland Surgery,RG14 7DF,51.3822406,-1.3357926
+London,NHS North Central London CCG,Temple Fortune Health Centre,NW11 7TE,51.58103190000001,-0.1977619
+London,NHS Barking and Dagenham CCG,Parsloes Surgery,RM9 5QP,51.5512059,0.1310737
+NE Yorkshire,NHS Sorfolk  Waveney CCG,Manor Park Medical Centre,SL1 3XU,51.5255704,-0.6013358
+London,NHS South East London CCG,St Johns Medical Centre,WS9 9LP,52.62538929999999,-1.9341141
+London,NHS South East London CCG,Plumstead Health Centre,SE18 1BH,51.4854485,0.09293939999999999
+London,NHS South East London CCG,Tessa Jowell Health Centre,SE22 8EY,51.4593007,-0.08041179999999999
+East of England,NHS East and North Hertfordshire CCG,Ware Drill Hall,SG12 9HP,51.8089646,-0.0296337
+East of England,NHS East and North Hertfordshire CCG,Hertford Theatre,SG14 1PS,51.7964868,-0.0797368
+NE Yorkshire,NHS County Durham CCG,Seaham Primary Care Centre,SR7 7JE,54.8354568,-1.3349078
+East of England,NHS Southend CCG,Highlands Surgery,SS9 2SQ,51.548147,0.6363219999999999
+London,NHS North Central London CCG,Bloomsbury Surgery,WC1N 1PD,51.5257449,-0.1227735
+East of England,NHS Herts Valley CCG,Bridgewater Surgeries,WD18 7QR,51.6512307,-0.4225524000000001
+NE Yorkshire,NHS Wakefield CCG,Castleford Civic Centre,WF10 4JH,53.7247247,-1.3427447
+NE Yorkshire,NHS North Kirklees CCG,IMWS Al-Hikmah Centre,WF17 7AA,53.704811,-1.6411573
+NE Yorkshire,NHS North Yorkshire CCG,Central Healthcare,77380,30.159107,-95.4732404
+NE Yorkshire,NHS Vale of York CCG,Pickering Medical Practice,YO18 8BL,54.2449197,-0.7808644
+Midlands,NHS Warwickshire North CCG,Hazelwood Practice,B46 3LD,52.4979793,-1.7072256
+Midlands,NHS Sandwell and West Birmingham CCG,Whiteheath Medical Centre,B69 1EJ,52.493132,-2.0339202
+Midlands,NHS Birmingham and Solihull CCG,Falcon Medical Centre,B75 7PG,52.5647354,-1.7903742
+Midlands,NHS Birmingham and Solihull CCG,Falcon Medical Centre,SW11 2PH,51.4684178,-0.1706748
+Midlands,NHS Birmingham and Solihull CCG,Monkspath Surgery,B90 4EH,52.3908229,-1.7840593
+South West,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",Combe Down Branch Surgery,BA2 5EG,51.360932,-2.3455491
+South West,NHS Somerset CCG,West Mendip Community Hospital,BA6 8JD,51.1602457,-2.6988813
+South West,NHS Dorset CCG,Talbot Medical Centre,BH10 4BX,50.7488651,-1.9087994
+South West,NHS West Hampshire CCG ,New Milton Health Centre,BH25 6EN,50.7547006,-1.6547371
+South East,NHS Brighton and Hove CCG,Preston Park Surgery,BN1 6DP,50.8378445,-0.1402047
+South East,NHS East Sussex CCG,River Lodge Surgery,BN7 2RD,50.875403,0.0166958
+South West,"NHS Bristol, North Somerset and South Gloucestershire CCG",The Greenway Cntre,BS10 5PY,51.4996423,-2.6088281
+South West,"NHS Bristol, North Somerset and South Gloucestershire CCG",Pudding Pie Lane,BS40,51.34120859999999,-2.7862309
+North West,NHS Wirral CCG,Woodchurch Leisure Centre,CH49 8EU,53.37858319999999,-3.0803847
+Midlands,NHS Coventry and Rugby CCG,Locke House,95237,38.1652367,-121.1520901
+Midlands,NHS South Warwickshire CCG,The Warwickshire (Golf Club),CV35 7QT,52.3101539,-1.5895831
+Midlands,NHS South Warwickshire CCG,Stratford Hospital,CV37 6NX,52.1950157,-1.7127738
+Midlands,NHS Coventry and Rugby CCG,Kerseley Green Surgery,CV7 8LA,52.46044149999999,-1.5355848
+Midlands,NHS East Staffordshire CCG,"Pirelli Stadium, Burton Albion",DE13 0AR,52.8215623,-1.627267
+South West,NHS Dorset CCG,Weymouth Community Hospital,DT4 7TB,50.6212314,-2.4507964
+South West,NHS Dorset CCG,Bridport Medical Centre,DT6 5BN,50.7340764,-2.7688859
+South West,NHS Gloucestershire CCG,Rosebank Surgery,LA1 4JS,54.0402396,-2.7993143
+South West,NHS Gloucestershire CCG,The Devereux Centre,GL20 5GJ,51.992288,-2.1534187
+South West,NHS Gloucestershire CCG,Cheltenham East Community Fire Station,GL53 7PX,51.8925742,-2.0687614
+South West,NHS Gloucestershire CCG,North Cotswolds Hospital,GL56 0DS,51.98353299999999,-1.7073018
+South East,NHS Surrey Heath CCG,Heatherside Surgery,GU15 1SE,51.3306721,-0.7037042
+South East,NHS Surrey Heartlands CCG,St Christopher's Church,77080,29.803383,-95.5237156
+South East,NHS South Eastern Hampshire CCG,Petersfield Festival Hall,GU31 4DZ,51.0039238,-0.9323634
+Midlands,NHS Herefordshire and Worcestershire CCG,Halo Leisure Centre,HR4 9UD,52.0698204,-2.7228472
+Midlands,NHS Herefordshire and Worcestershire CCG,Ledbury Community Hall,HR8 2AE,52.03766539999999,-2.4256601
+South East,NHS Surrey Heartlands CCG,Chertsey Hall,KT16 9DR,51.3894925,-0.5045676
+North West,NHS Liverpool CCG,Aintree Community Centre,L10 6NL,53.4853235,-2.9355073
+North West,NHS Liverpool CCG,Valley Medical Centre,98055,47.44334019999999,-122.2139169
+North West,NHS South Sefton CCG,Maghull Town Hall,L31 7BB,53.5073574,-2.944637
+North West,NHS Knowsley CCG,Huyton One Stop Shop,L36 9UX,53.4117306,-2.8404768
+North West,NHS West Lancashire CCG,Hants Lane Clinic,L39 1PX,53.5699884,-2.8851435
+North West,NHS Manchester CCG,Woodhouse Park Lifestyle Centre,M22 1QW,53.3742089,-2.2717267
+North West,NHS Salford CCG,Clarendon Leisure Centre,M5 4HU,53.4830954,-2.2845634
+London,NHS Brent CCG,Park Royal Medical Practice,NW10 7NS,51.5307122,-0.2690756
+North West,"NHS Heywood, Middleton and Rochdale CCG",Number 1 Riverside,OL16 1HE,53.6169772,-2.1534969
+South West,NHS Devon CCG ,The Staddy,PL9 9LT,50.346234,-4.0820429
+South West,NHS Portsmouth CCG,Kingston Crescent Surgery,PO2 8AL,50.813007,-1.080905
+South East,NHS Isle of Wight CCG,"Newport Medical Practice, Carisbrooke",PO30 1NR,50.6916716,-1.3106799
+North West,NHS Southport and Formby CCG,Southport Centre for Health Wellbeing,PR9 0PQ,53.6495365,-2.9985139
+South East,NHS Berkshire West CCG,Wargrave Surgery,RG10 8BP,51.5016353,-0.8619922
+South East,NHS North Hampshire CCG,Hampshire Court Hotel,RG24 8FY,51.2836849,-1.0567514
+South East,NHS Oxfordshire CCG,The Hart Surgery,RG9 2DR,51.5381858,-0.9086628
+South East,NHS West Sussex CCG,Christ Hospital - Blue Coats,RH13 0LJ,51.0436512,-0.3633005
+South East,NHS West Sussex CCG,Christ Hospital - Blue Coats,RH13 0YB,51.0453266,-0.3613463
+South East,NHS West Sussex CCG,The Glebe Surgery,RH20 4FR,50.9184195,-0.4583707
+North West,NHS Tameside and Glossop CCG,Hyde Leisure Centre,SK14 5PL,53.4493042,-2.0676801
+South East,NHS Surrey Heartlands CCG,Nonsuch Mansion,SM3 8AL,51.3582961,-0.2285993
+South West,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",Devizes Corn Exchange,SN10 1HS,51.3523658,-1.9960763
+South West,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",Rowden Medical Partnership,SN15 2SB,51.4538433,-2.1250448
+South West,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",Steam Museum,46350,41.7534475,-86.67790339999999
+South East,NHS West Hampshire CCG ,Badger Farm Community Centre,SO22 4QB,51.0462931,-1.3393462
+South East,NHS West Hampshire CCG ,Bursledon Surgery,SO31 8ES,50.8899503,-1.317081
+Midlands,NHS Stafford and Surrounds CCG,County Showground,WR13 6NW,52.0822984,-2.3144888
+London,NHS South West London CCG,Balham Health Centre,SW12 9HS,51.4406873,-0.1489573
+London,NHS South West London CCG,Essex House Surgery,SW13 0LW,51.472943,-0.247769
+South West,NHS Somerset CCG,Mulberry Centre,TW7 6AF,51.472299,-0.323396
+South West,NHS Devon CCG ,St Bonafice,68736,42.78632280000001,-97.3750797
+South West,NHS Devon CCG ,English Riveria Centre,TQ2 5JG,50.4615,-3.5254685
+London,NHS Hounslow CCG,Heart of Hounslow Centre for Health,TW3 3LN,51.46857929999999,-0.3717179
+London,NHS Hammersmith and Fulham CCG,Richford Gate Medical Centre,W6 7HY,51.500462,-0.2266134
+North West,NHS Trafford CCG,Altrinham Health and Wellbeing Hub,WA14 1RZ,53.3873528,-2.3524021
+North West,NHS Warrington CCG,Orford Jubilee Hub,WA2 8HE,53.4049209,-2.5884194
+North West,NHS Cheshire CCG,Frodsham Leisure Centre,WA6 6RP,53.29383000000001,-2.726165
+North West,NHS Halton CCG,DCBL Stadium,WA8 7DZ,53.365201,-2.73861
+North West,NHS St Helens CCG,"Totally Wicked Stadium, St Helens RLFC",WA9 3AL,53.4474676,-2.7261145
+North West,NHS Wigan Borough CCG,Robin Park Leisure Centre,WN5 0UL,53.5458698,-2.6558074
+Midlands,NHS South East Staffordshire and Seisdon Peninsula CCG,Codsall Satelite Clinic,WV8 1HB,52.6311536,-2.1999183
+South East,NHS East Berkshire CCG,Salt Hill Activity Centre,SL1 3SS,51.5123182,-0.6075005
+South East,NHS Surrey Heartlands CCG,Epsom Racecourse,KT18 5LQ,51.306437,-0.2538044
+Midlands,NHS Sandwell and West Birmingham CCG,Brasshouse Community Centre,B66 1BA,52.5005539,-1.9699891
+Midlands,NHS Birmingham and Solihull CCG,All Saints Medical Centre,SE18 3PS,51.479661,0.0666078
+Midlands,NHS Birmingham and Solihull CCG,Erdington Medical Centre,B24 8BJ,52.5182114,-1.8413928
+Midlands,NHS Birmingham and Solihull CCG,The Church of the Latter Day Saints,M1 7XN,53.469957,-2.235846
+Midlands,NHS Derbyshire CCG,Stubley Medical Centre,S18 8QY,53.30514100000001,-1.4899356
+Midlands,NHS Dudley CCG,Revival Fires,DY1 3AL,52.5121288,-2.0928267
+Midlands,NHS Herefordshire and Worcestershire CCG,Hume Street Medical Centre,DY11 6SF,52.3839274,-2.261303
+Midlands,NHS Herefordshire and Worcestershire CCG,Prospect View Medical Centre,WR14 2GP,52.1136134,-2.3087065
+Midlands,NHS Herefordshire and Worcestershire CCG,Turnpike House,M50 1SW,53.48241429999999,-2.3149505
+Midlands,NHS Herefordshire and Worcestershire CCG,Turnpike House,EC1V,51.5275772,-0.09990249999999999
+Midlands,NHS Herefordshire and Worcestershire CCG,Winyates Health Centre,B98 0NR,52.3033558,-1.8945258
+Midlands,"NHS Leicester, Leicestershire and Rutland CCG",Market Harborough MC,LE16 9BX,52.4768209,-0.9252242999999999
+Midlands,"NHS Leicester, Leicestershire and Rutland CCG",Humberstone Medical Centre ,LE5 0PR,52.6449708,-1.0863017
+Midlands,NHS Northamptonshire CCG,Danetre Medical Practice,NN11 4DY,52.2519667,-1.1603548
+Midlands,NHS Staffordshire and Stoke on Trent CCG,Longton Health Centre,PR4 5HA,53.7277672,-2.7801834
+Midlands,NHS Staffordshire and Stoke on Trent CCG,Mossgreen Surgery,ST2 0EU,53.0129253,-2.1278511
+Midlands,NHS Staffordshire and Stoke on Trent CCG,Birchenwood Sports Centre,ST7 1DR,53.0840519,-2.2465664
+Midlands,NHS Staffordshire and Stoke on Trent CCG,JCB Compact Products,ST10 2JU,52.9942193,-2.0005845
+Midlands,NHS Walsall CCG,Darlaston HC,WS10 8SY,52.56578589999999,-2.0378988
+Midlands,NHS Wolverhampton CCG,Mayfield Medical Practice Branch,WV10 8UT,52.6312765,-2.1148316
+Midlands,NHS Wolverhampton CCG,Mayfield Medical Practice Branch,WV1 2GZ,52.5829815,-2.0932974
+Midlands,NHS Birmingham and Solihull CCG,Balsall Common Health Centre,CV7 7RW,52.3949965,-1.643639
+Midlands,NHS Birmingham and Solihull CCG,St Heliers Medical Practice,B31 1QT,52.41230969999999,-1.9754827
+Midlands,NHS Sandwell and West Birmingham CCG,Portway Lifestyle Centre,B69 1HE,52.49872999999999,-2.029442
+Midlands,NHS Birmingham and Solihull CCG,Hall Green HC,B28 8BG,52.4405251,-1.8494233
+Midlands,NHS Dudley CCG,"Brierley Hill Methodist Church, Bank St",DY5 3DA,52.48484759999999,-2.1225314
+Midlands,NHS Herefordshire and Worcestershire CCG,Droitwich Health Centre,WR9 8RD,52.26705889999999,-2.1536617
+Midlands,NHS Herefordshire and Worcestershire CCG,Larruperz Centre,HR9 7QD,51.91556869999999,-2.576149
+Midlands,NHS Herefordshire and Worcestershire CCG,Quay House Surgery,HR4 0JF,52.0582345,-2.7399667
+Midlands,"NHS Leicester, Leicestershire and Rutland CCG",Fosse Medical Centre,LE3 5RR,52.6359428,-1.1520961
+Midlands,"NHS Leicester, Leicestershire and Rutland CCG",Sturdee Road Health and Wellbeing Centre,LE2 9DB,52.5905523,-1.145196
+Midlands,"NHS Leicester, Leicestershire and Rutland CCG",Sturdee Road Health and Wellbeing Centre,LE2 9BU,52.5913332,-1.1468882
+Midlands,NHS Lincolnshire CCG,Cliff Villages Medical Practice,LN5 0JJ,53.1026363,-0.5285112
+Midlands,NHS Northamptonshire CCG,Kings Heath Centre,B14 7DB,52.43445879999999,-1.891427
+Midlands,NHS Staffordshire and Stoke on Trent CCG,Loomer Road Surgery,ST5 7JS,53.0358297,-2.2481471
+Midlands,NHS Staffordshire and Stoke on Trent CCG,Chasetown Medical Centre,WS7 3XE,52.6713896,-1.9342452
+Midlands,NHS Staffordshire and Stoke on Trent CCG,Michelin MAC Sports and Conference Facility,ST4 6NL,52.9823271,-2.2068001
+Midlands,NHS Wolverhampton CCG,Woodcross MC,WV14 9BP,52.5513318,-2.1030343
+Midlands,NHS Birmingham and Solihull CCG,The Oaks Medical Practice,B44 9HU,52.5549687,-1.8949939
+Midlands,NHS Derbyshire CCG,Church Farm Ripley,DE5,53.0417619,-1.4029597
+East of England,NHS Castle Point and Rochford CCG,Audley Mills Surgery,SS6 7JF,51.5846282,0.6068437999999999
+East of England,NHS East and North Herts,St Nicholas Health Centre,SG1 4LH,51.924324,-0.1835161
+East of England,NHS East and North Herts,Bishops Stortford Football Club,CM23 5RG,51.8731269,0.1924064
+East of England,NHS Herts ValleysCCG,Manor View Practice,WD23 2NN,51.6455026,-0.3740044
+East of England,NHS Luton CCG,Bushmead Medical Centre,LU2 7YT,51.9066461,-0.4138937
+East of England,NHS Milton Keynes CCG,Westcroft Health Centre,MK4 4EN,52.006313,-0.7957293999999999
+East of England,NHS Norfolk and Waveney CCG ,Cringleford Surgery ,NR4 6TA,52.6030788,1.2358521
+East of England,NHS Norfolk and Waveney CCG ,Cringleford Surgery ,NR4 6TA,52.6031272,1.2359187
+East of England,NHS Basildon and Brentwood CCG,The Nevendon Centre,SS12 0QG,51.6103797,0.5186059
+East of England,NHS East and North Herts CCG,Stockwell Lodge Medical Centre-Annexe site ,EN7 6HL,51.713828,-0.0552673
+East of England,NHS East and North Herts CCG,Roebuck Surgery,SG2 8HW,51.8846132,-0.1878087
+East of England,NHS Herts Valleys CCG,Attenborough Surgery,WD23 2NN,51.6455493,-0.3738925
+East of England,NHS Ipswich and East Suffolk CCG,Ivry Street Medical Practice,IP1 3QW,52.064023,1.1486551
+East of England,NHS Mid Essex CCG,Maldon District Council Offices,CM9 5DL,51.7287379,0.6802402
+East of England,NHS Southend CCG,Valkyrie Primary Care Centre,SS0 8BU,51.5405335,0.6919898
+East of England,NHS West Essex CCG,Lord Butler Lesiure Centre,CB11 3EG,52.014817,0.252748
+London,NHS North Central London CCG,Wentworth Medical Practice,N3 1YL,51.6077516,-0.1879152
+London,NHS North Central London CCG,Evergreen Surgery,N9 0TW,51.6237322,-0.0603314
+London,NHS North Central London CCG,Hanley Primary Care Centre,N4 3DU,51.568557,-0.119396
+London,NHS South West London CCG,Hampton Wick Surgery,KT1 4DY,51.4169807,-0.3143136
+London,NHS South East London CCG,Beckenham Beacon,BR3 3QL,51.4051434,-0.0330948
+London,NHS North West London CCG ,Young People Centre,BN1 1AE,50.8210942,-0.1419704
+London,NHS North West London CCG ,South Westminster Centre for Health,SW1P 2PF,51.4942978,-0.1342048
+London,NHS North West London CCG ,Ealing Town Hall,W5 2BY,51.51320949999999,-0.3074986
+London,NHS North Central London CCG,Winchmore Hill Practice,N21 2SA,51.6330308,-0.0940182
+London,NHS North Central London CCG,Bounds Green Group Practice,N11 2PF,51.606806,-0.126841
+London,NHS South West London CCG,Gosbury Hill Surgery,KT9 1BT,51.36835689999999,-0.3024357
+London,NHS South East London CCG ,Artesian Building,SE1 3GF,51.49412230000001,-0.0746927
+London,NHS South East London CCG,Queen Marys Hospital,SW15 5PN,51.45502,-0.2414712
+London,North Central London,Belsize Priory Health Centre,NW6 4DX,51.5397686,-0.1879884
+South East,NHS Oxfordshire CCG,Barton Neighbourhood Centre,OX3 9LS,51.7678674,-1.1963802
+South East,NHS Oxfordshire CCG,South Bar House,OX16,52.0574344,-1.3408147
+South East,NHS Southampton CCG ,Royal South Hants Hospital,SO14 0YG,50.9127051,-1.3969897
+South East,NHS Berkshire West CCG,Swallowfield Surgery,RG7 1QY,51.378954,-0.9588622999999998
+South East,NHS Oxfordshire CCG,East Oxford Health Centre,OX4 1GE,51.74725549999999,-1.2324816
+South East,NHS East Berkshire CCG,Farnham Centre for Health,GU9 9QS,51.2204765,-0.7843361999999999
+South East,NHS Fareham & Gosport CCG,Brune Medical Centre ,PO13 0EW,50.8131626,-1.1594425
+South East,NHS Fareham & Gosport CCG,Solent View Medical Practice,PO13 9JG,50.8026886,-1.2016604
+South East,NHS Isle of Wight CCG,West Wight Sport and Social Centre,PO40 9XH,50.6811994,-1.5237538
+South East,NHS Portsmouth CCG,Eastney Health Centre,PO4 9HU,50.7867593,-1.0596193
+South East,NHS Southampton CCG ,Chessel Avenue Surgery,SO19 4AA,50.9135638,-1.3652875
+South East,NHS West Hampshire CCG,Park Surgery,RH12 1BG,51.06435,-0.3273649
+South East,NHS West Hampshire CCG,AFC Totton,SO40 2RW,50.9345104,-1.5098415
+South East,NHS Kent and Medway CCG,Charing Surgery,TN27 0HZ,51.2088028,0.7898010999999999
+South East,NHS Kent and Medway CCG,Meopham Medical Centre,DA13 0AH,51.3669411,0.3579569
+South East,NHS Kent and Medway CCG,Springhead Health Ltd,DA11 8BZ,51.4358368,0.3409171
+South East,NHS Kent and Medway CCG,The Orchard Practice,KT9 1AG,51.3684569,-0.3027791
+South East,NHS Brighton and  CCG,Canon Building,UB11 1ET,51.50918979999999,-0.4359778
+South East,NHS Southampton CCG ,Adelaide Health Centre ,SO16 4XE,50.924775,-1.4478111
+South East,NHS Berkshire West CCG,Woodley Centre Surgery,RG5 4JA,51.4533449,-0.9047755000000001
+South East,NHS Oxfordshire CCG,Jericho Health Centre,OX2 6NW,51.7600071,-1.2657471
+South East,NHS Fareham & Gosport CCG,Brook Lane Surgery,SO31 7DQ,50.870994,-1.2737609
+South East,NHS Fareham & Gosport CCG,Portchester Practice,PO16 9TU,50.8463994,-1.1262602
+South East,NHS Fareham & Gosport CCG,Waterlooville Health Centre,PO7 6AL,50.8917555,-1.0345072
+South East,NHS Portsmouth CCG ,Cosham Health Centre,PO6 3AW,50.8438436,-1.0687393
+South East,NHS Portsmouth CCG ,Lake Road Health Centre,PO1 4JE,50.8047748,-1.0783949
+South East,NHS Southampton CCG ,Ladies Walk Surgery,SO18 5TS,50.9145249,-1.3336565
+South East,NHS Kent and Medway CCG,Avicenna Medical Centre,NP12 2YU,51.6564093,-3.1883973
+South East,NHS Kent and Medway CCG,Greensands Branch Surgery (Loose),ME17 4PL,51.2333755,0.4945839
+South East,NHS Kent and Medway CCG,Musgrove Park Medical Centre,TN23 7SP,51.13654349999999,0.8651078
+South East,NHS Kent and Medway CCG,Woodlands Family Practice,ME7 2BU,51.3791348,0.566678
+South East,NHS Surrey Heartlands CCG ,Emberbrook Surgery,KT7 0EB,51.3864147,-0.3349704
+South East,NHS East Sussex CCG,Beacon Shopping Centre,BN21 3NW,50.76847249999999,0.2862133
+South East,NHS East Sussex CCG,Beacon Shopping Centre,NE29 6QF,55.00888699999999,-1.4459902
+South West,"NHS Bristol, North Somerset and South Gloucestershire CCG",East trees health centre,BS5 6SD,51.4704108,-2.5627469
+South West,NHS Devon CCG ,Clare House,CH63 4JD,53.3311254,-3.0245971
+South West,NHS Kernow CCG,Falmouth Health Centre,TR11 2JA,50.1559556,-5.0861055
+South West,NHS Dorset CCG,East Way Clinic,BH8 9PT,50.7481087,-1.8560228
+South West,NHS Somerset CCG,Frome Medical Centre,BA11 2FH,51.2377346,-2.3116961
+South West,"NHS Bristol, North Somerset and South Gloucestershire CCG",Clifton College Preparatory School Hall,BS8 3JH,51.4618469,-2.6199802
+South West,"NHS Bristol, North Somerset and South Gloucestershire CCG",Horfield Health Centre,BS7 9RR,51.4900148,-2.5766808
+South West,"NHS Bristol, North Somerset and South Gloucestershire CCG",West Walk Surgery,BS37 4AX,51.54012059999999,-2.4143385
+South West,NHS Gloucestershire CCG,Churchdown Community Centre,GL3 2JH,51.88335559999999,-2.1714917
+South West,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",Ramsbury Surgery,SN8 2QT,51.4462407,-1.5939151
+South West,NHS Somerset CCG,Minehead Community Hospital ,TA24 6DF,51.1988315,-3.4627294
+South West,NHS Kernow CCG,Redruth Health Clinic,TR15 1AU,50.2339655,-5.2316758
+South West,NHS Devon CCG ,Pavillions,32836,28.3704136,-81.5518101
+South West,NHS Devon CCG ,Holsworthy Medical Centre,EX22 6GH,50.8188252,-4.3501273
+South West,NHS Kernow CCG,Narrowcliff Surgery,TR7 2QF,50.4180409,-5.0703306
+South West,NHS Dorset CCG,Beaufort Rd Surgery,BH6 5AJ,50.7283479,-1.8144195
+South West,NHS Dorset CCG,Westbourne Medical centre,BH4 9HJ,50.72361799999999,-1.901651
+South West,NHS Devon CCG ,St Leonards Medical Practice,EX1 1SB,50.7231748,-3.5222448
+South West,"NHS Bristol, North Somerset and South Gloucestershire CCG",Marksbury Road,BS3,51.433477,-2.5950284
+South West,"NHS Bristol, North Somerset and South Gloucestershire CCG",Brockway Medical Centre ,BS48 1BZ,51.433531,-2.754862
+South West,NHS Gloucestershire CCG,Rowcroft Medical Centre,GL5 3BE,51.7457448,-2.2194327
+South West,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG","The White Horse Health Centre, ",BA13 3FQ,51.2528042,-2.2032576
+North West,NHS Liverpool CCG,Mere Lane Health Centre,L5 0QW,53.4265038,-2.9674002
+North West,NHS Liverpool CCG,Mere Lane Health Centre,L5 0QW,53.4263804,-2.9673063
+North West,NHS Wirral CCG,Victoria Central Hospital,CH44 5UF,53.4157813,-3.0457
+North West,NHS Halton CCG,The Brindley,WA7 1BG,53.3406422,-2.7314215
+North West,NHS Wirral CCG,The Oval Leisure Centre,CH63 7LF,53.3588889,-3.0113889
+North West,NHS Stockport CCG,South Reddish Medical Centre,SK5 7QU,53.4224421,-2.1570678
+North West,NHS Wigan Borough CCG,Leigh Leisure Centre,WN7 4JY,53.4887223,-2.5307294
+North West,NHS Chorley and South Ribble CCG,Geoffrey Street Health Centre,PR1 5NE,53.762968,-2.6795591
+North West,NHS Cheshire CCG,Waters Green Medical Centre,SK11 6JL,53.2584956,-2.122632
+North West,NHS Tameside & Glossop CCG,Stamford House,PE9 3JY,52.6424935,-0.4525313
+North West,NHS Oldham CCG,Fields New Road Primary Care Centre,OL9 8NH,53.53170739999999,-2.1465969
+North West,NHS Trafford CCG,Life Centre,W8 7PN,51.5074528,-0.1958536
+North West,NHS Morecambe Bay CCG ,"Morecambe Football Club, Mazuma Arena",LA4 4TB,54.0606776,-2.8671648
+North West,NHS Liverpool CCG,Dunstan Village,NE66 3TD,55.472493,-1.60381
+North West,NHS Warrington CCG,"West Stand , Halliwell Jones Stadium",WA2 7NE,53.3949012,-2.595639
+North West,NHS Bury CCG,Bealeys Community Hospital,M26 2QD,53.56577900000001,-2.3092832
+North West,NHS Stockport CCG,"Manchester Rugby Club, Cheadle Hulme",SK8 7NB,53.3561264,-2.1906074
+North West,NHS West Lancashire CCG,Birleywood Health Centre,WN8 9BW,53.5382944,-2.7586563
+North West,NHS East Lancashire,Yarnspinners PHCC,BB9 7SR,53.8384651,-2.2189266
+North West,NHS Bolton CCG,Lever Chambers ,BL1 1SQ,53.57691209999999,-2.4310442
+North West,NHS Oldham CCG,Royton Health and Well Being Centre,OL2 6QW,53.5663899,-2.1215157
+North West,NHS Trafford CCG,Partington Health Centre,M31 4FY,53.4172106,-2.4257095
+North West,NHS Trafford CCG,Davyhulme Medical Centre ,M41 7WJ,53.45928680000001,-2.3679161
+NE Yorkshire,NHS East Riding of Yorkshire CCG,Bartholemew Medical Practice,DN14 6RU,53.7165589,-0.8732232999999999
+NE Yorkshire,NHS East Riding of Yorkshire CCG,Bartholemew Medical Practice,OX4 1XB,51.74756499999999,-1.2320272
+NE Yorkshire,NHS North East Lincolnshire CCG,Pilgrim Primary Care Centre,DN40 1JW,53.6178977,-0.2059367
+NE Yorkshire,NHS North Lincolnshire CCG,Riverside Surgery,23606,37.0852727,-76.48879579999999
+NE Yorkshire,NHS County Durham CCG,Richardson Community Hospital,DL12 8HT,54.5469626,-1.9160634
+NE Yorkshire,NHS Tees Valley CCG,Hartlepool Town Hall ,TS24 8AH,54.6863666,-1.2138119
+NE Yorkshire,NHS Tees Valley CCG,Victoria Medical Centre,SW1V 1SN,51.4927061,-0.1389013
+NE Yorkshire,NHS County Durham CCG,"St Andrews Medical Practice, Oxford Road site",DL16 6QA,54.6996439,-1.598223
+NE Yorkshire,NHS Sunderland CCG,Bunnyhill PCCC,03849,43.8680791,-71.0889018
+NE Yorkshire,NHS Sunderland CCG,Bunnyhill PCCC,97034,45.3976014,-122.6937915
+NE Yorkshire,NHS County Durham CCG,Peterlee Health Centre,SR8 1AD,54.758045,-1.335098
+NE Yorkshire,NHS Leeds CCG,Priory View Medical Centre,LS12 1HU,53.79123800000001,-1.5754442
+NE Yorkshire,NHS Leeds CCG,Kippax Health Centre,LS25 7QT,53.7720413,-1.3701264
+NE Yorkshire,NHS Leeds CCG,Bramley Village Health and Wellbeing Centre,LS13 2BL,53.8077276,-1.6235856
+NE Yorkshire,NHS Leeds CCG,Alwoodley Medical Centre,LS17 5DT,53.8478684,-1.5517043
+NE Yorkshire,NHS North East Lincolnshire CCG,Scartho Medical Centre,DN33 3JF,53.5364313,-0.0948294
+NE Yorkshire,NHS North Yorkshire CCG,The Forum,22312,38.8024076,-77.142377
+NE Yorkshire,NHS County Durham CCG,Claypath & University Medical Group,17356,39.9009876,-76.6053271
+NE Yorkshire,NHS County Durham CCG,Auckland Medical Group,DL14 6RP,54.6489029,-1.6798282
+NE Yorkshire,NHS County Durham CCG,Brandon lane Surgery building,DH7 8SJ,54.7556579,-1.6241527
+NE Yorkshire,NHS Northumberland CCG,Ashington Cricket Club,NE63 8AB,55.18229040000001,-1.5746953
+NE Yorkshire,NHS Northumberland CCG,Railway Medical Group,NE24 1HD,55.12840989999999,-1.5144466
+NE Yorkshire,NHS Bradford District and Craven CCG,Woodroyd Medical Practice,BD5 8EL,53.775051,-1.753552
+NE Yorkshire,NHS Leeds CCG,The Grange Medical Centre,CV11 6AB,52.5267798,-1.4581939
+NE Yorkshire,NHS Leeds CCG,Bridge street,20191,38.9443692,-77.3318389
+NE Yorkshire,NHS Bradford District and Craven CCG,Barkerend Health Centre,BD3 8QH,53.797702,-1.7212718
+NE Yorkshire,NHS Bradford District and Craven CCG,Shipley Health Centre,BD18 3EG,53.83269379999999,-1.7811248
+North West,NHS Tameside and Glossop CCG,Stamford House,PE9 3JY,52.6424935,-0.4525313
+East of England,NHS North East Essex CCG,Colchester Primary Care Centre,CO4 5JR,51.9063885,0.9016331000000001
+East of England,NHS Norfolk and Waveney CCG,Terrington St Johns Surgery ,PE14 7RR,52.7062092,0.2725691
+East of England,NHS Herts Valleys CCG,Watford Health Centte,WD18 0JP,51.6562773,-0.401074
+East of England,NHS West Essex CCG,Buckhurst Way Clinic,IG9 6HP,51.6209925,0.0463391
+London,NHS Havering CCG,Hornchurch Library,RM11 1TB,51.5648794,0.2205139
+London,NHS South West London CCG,Keston Medical Practice,CR8 2YL,51.3405232,-0.1142473
+London,NHS South West London CCG,St Barnabas Church,76016,32.6830112,-97.1843337
+London,NHS West London CCG,Earls Court Health and Wellbeing Centre,SW5 0PT,51.4925234,-0.1927941
+Midlands,NHS North Warwickshire CCG,Atherstone Surgery,CV9 1EU,52.5785146,-1.542482
+Midlands,NHS West Leicestershire CCG,Charnwood Borough Council Offices,LE11 2TN,52.7689417,-1.2046016
+Midlands,NHS Leicester City CCG,Community HC,06051,41.67134739999999,-72.78402729999999
+Midlands,NHS Stoke on Trent CCG,Furlong Medical Centre,ST6 5UD,53.0629397,-2.2099471
+Midlands,NHS Wolverhampton CCG,Keats Grove Surgery,WV10 8LY,52.6140409,-2.0990915
+Midlands,NHS South Warwickshire CCG,Lisle Court Medical Centre,CV31 2ES,52.2808849,-1.5308062
+Midlands,NHS Derby and Derbyshire CCG,Long Eaton Health Centre,NG10 1RY,52.90132149999999,-1.2724698
+Midlands,NHS East Leicestershire and Rutland CCG,Melton Sports Village,LE13 1DR,52.7538408,-0.8751213999999999
+Midlands,NHS Derby and Derbyshire CCG,Newholme hospital,DE45 1AD,53.2187376,-1.6724002
+Midlands,NHS East Leicestershire and Rutland CCG,Oadby Racecourse,LE2 4AL,52.6041789,-1.0943758
+Midlands,NHS East Leicestershire and Rutland CCG,Rutland Health,05701,43.5983353,-72.9550994
+Midlands,NHS Walsall CCG,Sycamore House ,43228,39.9757363,-83.1465905
+NE Yorkshire,NHS Bassetlaw CCG,Kilton Community Centre,S81 0DE,53.3091423,-1.1071922
+NE Yorkshire,NHS Doncaster CCG,Adwick Leisure Centre ,DN6 7QF,53.5637268,-1.1867433
+NE Yorkshire,NHS Hull CCG,Alf Marshall Community Centre,HU7 4EF,53.7880323,-0.3216572
+NE Yorkshire,NHS Barnsley CCG,Apollo Court Medical Centre,S75 3RF,53.5421095,-1.5241772
+NE Yorkshire,NHS Calderdale CCG,Bankfield Surgery,HX5 9BA,53.6862967,-1.8351376
+NE Yorkshire,NHS Leeds CCG,Beeston Village,PE32,52.702545,0.8246450999999999
+NE Yorkshire,NHS Newcastle Gateshead CCG,Blaydon Primary Care Centre ,NE21 5NW,54.95794919999999,-1.695347
+NE Yorkshire,NHS Northumberland CCG,Brockwell Medical Group,NE23 1XZ,55.0956078,-1.5841398
+NE Yorkshire,NHS North Cumbria CCG,Castlegate and Derwent Surgery ,CA13 9HT,54.66589,-3.3587624
+NE Yorkshire,NHS Sheffield CCG,Darnall PCC,S9 4QH,53.38481239999999,-1.4088226
+NE Yorkshire,NHS Barnsley CCG,Dearne Valley Group Practice,S63 0JR,53.5455774,-1.3089295
+NE Yorkshire,NHS Doncaster CCG,Dearne Valley Leisure Centre  ,S64 0LB,53.4934903,-1.2580069
+NE Yorkshire,NHS Leeds CCG,East Leeds Health Centre,LS9 9BL,53.7988495,-1.4985515
+NE Yorkshire,NHS Sheffield CCG,Fairlawns,WS9 0NU,52.6030556,-1.8977778
+NE Yorkshire,NHS Newcastle and Gateshead CCG,Felling Hub  ,NE10 9LT,54.9507357,-1.5711078
+NE Yorkshire,NHS Newcastle and Gateshead CCG,Felling Hub  ,NE10 9QG,54.9479653,-1.5683281
+NE Yorkshire,NHS Greather Huddersfield CCG,Holme Valley Memorial Hospital,HD9 3TS,53.5788537,-1.7840872
+NE Yorkshire,NHS Sunderland CCG,Houghton Primary care Centre,DH4 5GU,54.8444833,-1.4758444
+NE Yorkshire,NHS Bassetlaw CCG,Kilton Forest Community Centre,SN12 7FF,51.3816184,-2.1324369
+NE Yorkshire,NHS Wakefield CCG,King's Medical Practice,WF6,53.7007121,-1.4178902
+NE Yorkshire,NHS North Tyneside CCG,Langdale Centre,NE28 0HG,55.0065728,-1.4970153
+NE Yorkshire,NHS Rotherham CCG,Montgomery Hall,SE11 5SW,51.4826942,-0.1152496
+NE Yorkshire,NHS Newcastle Gateshead CCG,Newcastle Eagles Basketball,NE4 7AF,54.9633826,-1.6366382
+NE Yorkshire,NHS Vale of York CCG,Nimbuscare Mass Vaccination Hub ,PE11 2BY,52.7940569,-0.1474704
+NE Yorkshire,NHS Tees Valley CCG,North Ormesby Branch - Linthorpe Surgery,TS3 6AL,54.57175729999999,-1.2165314
+NE Yorkshire,NHS Tees Valley CCG,North Ormesby Branch - Linthorpe Surgery,TS5 6HA,54.5633103,-1.2415475
+NE Yorkshire,NHS Calderdale CCG,Nursery Lane Medical Centre,HX3 5TE,53.7417887,-1.8822868
+NE Yorkshire,NHS Leeds CCG,Oakwood Lane Medical Practice,LS8 3BZ,53.8202128,-1.4939691
+NE Yorkshire,NHS North East Lincolnshire CCG,Open Door,BT15 1WZ,54.608912,-5.9237551
+NE Yorkshire,NHS North Cumbria CCG,Penrith Hospital,CA11 8HX,54.65668609999999,-2.7430129
+NE Yorkshire,NHS Vale of York CCG,Posterngate Surgery,YO8 4QH,53.7813267,-1.0710315
+NE Yorkshire,NHS Rotherham CCG,Rotherham Leisure Centre,S65 1BL,53.436758,-1.352219
+NE Yorkshire,NHS Wakefield CCG,Sandal RUFC,WF2 7DY,53.6502495,-1.4935359
+NE Yorkshire,NHS Vale of York CCG,Tadcaster Health Centre,LS24 8HD,53.8854768,-1.2581317
+NE Yorkshire,NHS North Yorkshire CCG,Tennants Auction House,DL8 5SG,54.3067,-1.8153
+NE Yorkshire,NHS Sheffield CCG,The Flowers Health Centre,S5 6AZ,53.4180149,-1.4368818
+NE Yorkshire,NHS South Tyneside CCG,The Glen Primary Care Centre,06488,41.4620191,-73.237623
+NE Yorkshire,NHS North Tyneside CCG,The Parks Leisure Centre,NE29 6TL,55.001599,-1.456136
+NE Yorkshire,NHS North Yorkshire CCG,The Pavillion,32836,28.3704136,-81.5518101
+NE Yorkshire,NHS Bradford District and Craven CCG,The Ridge,BH20,50.6756439,-2.094282
+NE Yorkshire,NHS Calderdale CCG,Todmorden Group Practice,OL14 5RN,53.7138742,-2.0921662
+NE Yorkshire,NHS Sunderland CCG,Washington PCC,97219,45.4383981,-122.7310487
+NE Yorkshire,NHS North Yorkshire CCG,Wetherby Health Centre (LCH) ,LS22 6JT,53.9283218,-1.38116
+NE Yorkshire,NHS North Yorkshire CCG,Whitby Pavillion,YO21 3EN,54.4908204,-0.6196235
+NE Yorkshire,NHS North Cumbria CCG,Wigton Community Hospital,CA7 9DD,54.830439,-3.1713265
+NE Yorkshire,NHS Leeds CCG,Yeadon Health Centre,LS19 7PS,53.8652171,-1.6838316
+NE Yorkshire,NHS Chorley and South Ribble CCG,Buckshaw Village Surgery ,PR7 7HZ,53.6783556,-2.6588722
+North West,NHS West Lancashire CCG,Burscough Health Centre ,L40 4LA,53.6030119,-2.8412271
+North West,NHS Morecambe Bay CCG,Captain French Surgery,LA9 4JE,54.3232467,-2.7480336
+North West,NHS East Lancashire CCG,Colne Health Centre Pharmacy,BB8 0JE,53.8565574,-2.1641958
+North West,NHS Blackburn with Darwen CCG,Darwen Health Centre,BB3,53.6957213,-2.4712513
+North West,NHS Trafford CCG,Delamere Medical Practice,M32 0DF,53.45009599999999,-2.307131
+North West,NHS Tameside and Glossop CCG,Denton Festival Hall,M34 3JY,53.456717,-2.1172429
+North West,NHS Flyde and Wyre CCG,Garstang Medical Practice,PR3 1PB,53.89640370000001,-2.782926
+North West,NHS Tameside and Glossop CCG,Glossop Cricket  & Bowling Club,SK13 7AS,53.4469489,-1.9524017
+North West,NHS Tameside and Glossop CCG,Glossop Cricket  & Bowling Club,SK13 7SH,53.44654939999999,-1.9376173
+North West,NHS Liverpool CCG,Lee Jones Centre (Vauxhall Health Centre),L5 8XR,53.4194441,-2.9843895
+North West,NHS Flyde and Wyre CCG,Lockwood GP Surgery,HD1 3XH,53.6325228,-1.7959555
+North West,NHS Wirral CCG,Moreton Cross Group Practice,CH46 8SA,53.4036281,-3.1121402
+North West,NHS Flyde and Wyre CCG,Over Wyre Medical Centre,FY6 0FA,53.9277829,-2.9768181
+North West,NHS Greater Preston CCG,Penwortham Cricket Club,PR1 9QE,53.743443,-2.709138
+North West,NHS Oldham CCG,"Pike Medical Practice, Market Street, Mossley, Tameside",OL5 0HE,53.5178069,-2.0457559
+North West,NHS Liverpool CCG,Townsend Health Centre,L6 0AY,53.4295766,-2.9449961
+South East,NHS Berkshire West CCG,Boathouse Surgery/Rosewood Hall ,RG8 7DP,51.486056,-1.0859588
+South East,NHS Kent and Medway CCG,Bower Mount Medical Centre,ME16 8AX,51.2747016,0.5096951
+South East,NHS Kent and Medway CCG,Bridge Health Centre,CT4 5BL,51.2468112,1.1296036
+South East,NHS Berkshire West CCG,Circuit Lane Surgery,RG30 3AN,51.4429312,-1.0067665
+South East,NHS West Hampshire CCG ,Crosfield Hall,SO51 8GL,50.987213,-1.496769
+South East,NHS South Eastern Hampshire CCG,Emsworth Baptist Church,PO10 7BY,50.8483327,-0.9365458000000001
+South East,NHS Kent and Medway CCG,Estuary View Medical Centre,CT5 3SE,51.3416251,1.0132591
+South East,NHS Kent and Medway CCG,Faversham Health Centre,ME13 8QR,51.3145051,0.8892289
+South East,NHS West Hampshire CCG ,Fordingbridge Hospital ,SP6 1JD,50.928469,-1.793091
+South East,NHS North Hampshire CCG,Forest Surgery,E17 4BA,51.5947464,-0.0050398
+South East,NHS East Sussex CCG,Hampden Park,BN22,50.7965502,0.2773477
+South East,NHS South Eastern Hampshire CCG,Hayling Island Health Centre,PO11 9AP,50.7896408,-0.9763786999999999
+South East,NHS Surrey Heartlands CCG,McLaren,SK9 3FB,53.3448498,-2.2162071
+South East,NHS West Hampshire CCG,Milford on Sea War Memorial Hospital ,SO41 0FR,50.72353640000001,-1.5898626
+South East,NHS Buckinghamshire CCG,"Nordon House Surgery, Clinical Centre",TS20 2UZ,54.5887772,-1.3082296
+South East,NHS Kent and Medway CCG,Oaklands Health Centre,CT21 6BD,51.069981,1.0826099
+South East,NHS East Sussex CCG,Princess Park Health Centre,BN22 7PG,50.7811107,0.3030963
+South East,NHS Buckinghamshire CCG,Risborough Community Centre,HP27 9AX,51.7245727,-0.8367252
+South East,NHS Isle of Wight CCG,The Bay Medical Practice,PO36 9GA,50.6505337,-1.1623709
+South East,NHS Oxfordshire CCG,The Leys Health Centre,OX4 7EX,51.71775179999999,-1.1964996
+South East,NHS Berkshire West CCG,University Medical Centre,40536,38.0329054,-84.5067373
+South East,NHS East Berkshire CCG,Waitrose Sports Hall,RG12 8FP,51.4101815,-0.7661150999999999
+South East,NHS Oxfordshire CCG,Wallingford Community Hospital,OX10 9DU,51.5946839,-1.1282682
+South East,NHS Isle of Wight CCG,Westridge Centre,PO33 1QS,50.7095707,-1.1410416
+South East,NHS West Hampshire CCG ,Winchester Holiday Inn ,SO21 1HZ,51.0607136,-1.2628323
+South East,NHS West Hampshire CCG ,Winchester Holiday Inn ,SO23 7RT,51.068068,-1.299169
+South East,NHS Oxfordshire CCG,Windrush Health Centre,OX28 6JS,51.7877179,-1.4892217
+South East,NHS Buckinghamshire CCG,Windsor Racecourse,SL4 5EZ,51.4851465,-0.6337456
+South West,NHS Gloucestershire CCG,Beeches Green Health Centre,GL5 4BH,51.7473003,-2.2202565
+South West,"NHS Bristol, North Somerset and South Gloucestershire CCG",Christchurch Medical Centre ,BH23 3AF,50.73642,-1.7605938
+South West,NHS Gloucestershire CCG,Cinderford Health Centre,GL14 2AN,51.824468,-2.4972624
+South West,NHS Gloucestershire CCG,Cirencester Hospital,GL7 1UY,51.7125154,-1.9760718
+South West,NHS Devon CCG ,Dawlish Community Hospital,EX7 9QH,50.5805697,-3.4748179
+South West,NHS Devon CCG ,Glenside Surgery,PL7 4DR,50.39231119999999,-4.0491206
+South West,"NHS Bristol, North Somerset and South Gloucestershire CCG",Portishead Medical Group,BS20 6AQ,51.4831783,-2.7658725
+South West,"NHS Bristol, North Somerset and South Gloucestershire CCG",Shirehampton Group Practice,BS11 9SB,51.488935,-2.6774145
+South West,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",Spencers Sports and Social Club ,SN12 8AG,51.3803908,-2.1426789
+South West,NHS Somerset CCG,Shape Mendip,BA4 5BT,51.18729399999999,-2.5472991
+South West,NHS Somerset CCG,North Petherton Rugby Club,TA6 6NW,51.0824459,-3.0156929
+South West,NHS Devon CCG ,Barnstaple Leisure,EX31 2AP,51.0755249,-4.058883
+South West,NHS Devon CCG ,Mount Pleasant Health Centre,EX4 7BW,50.732625,-3.515826
+South East,NHS Oxfordshire CCG,Morland House,RM1 3FE,51.5756881,0.185161
+South East,NHS West Sussex CCG,Pulborough Medical Group,RH20 1FG,50.9609844,-0.5088283
+South East,NHS East Sussex CCG,Ninfield Surgery,TN33 9JP,50.8878783,0.4207265
+South East,NHS West Sussex CCG,Perrymount Road,RH16,51.003443,-0.1037365
+South East,NHS West Sussex CCG,Leacroft Medical Practice ,RH11 7TF,51.1274624,-0.1978451
+Midlands,NHS Birmingham and Solihull CCG,Harborne Medical Practice,B17 0HG,52.459073,-1.9463671
+Midlands,NHS Birmingham and Solihull CCG,Richmond Medical Centre,LN6 9AY,53.1875716,-0.5969922999999999
+Midlands,NHS Birmingham and Solihull CCG,River Brook Medical Centre,B30 2SH,52.4316025,-1.9161402
+Midlands,NHS Birmingham and Solihull CCG,Saltley Health Centre,B8 1RZ,52.4916158,-1.8520011
+Midlands,NHS Birmingham and Solihull CCG,Washwood Heath Health Centre,B8 2JN,52.4930943,-1.8264583
+Midlands,NHS Dudley CCG,Kingswinford Community Centre ,DY6 8AP,52.4977788,-2.1623519
+Midlands,NHS Dudley CCG,Stourbridge National Spiritualist Church,DY8 1PJ,52.4531061,-2.1452563
+Midlands,NHS Herefordshire & Worcester CCG,Saxon Hall,SS2 6UN,51.5708944,0.6832138999999999
+Midlands,"NHS Leicester, Leicestershire and Rutland CCGs",Old school Surgery,BS16 2JD,51.4821739,-2.529293
+Midlands,NHS Lincolnshire CCG,St Mary's Medical Centre,64014,39.0252184,-94.26402730000001
+Midlands,NHS Northamptonshire CCG,Brackley Medical Centre,NN13 6QZ,52.0380438,-1.1379644
+Midlands,NHS Northamptonshire CCG,Moulton Community Centre,NN3 7AX,52.29013029999999,-0.8417713
+Midlands ,NHS Northamptonshire CCG,Christchurch MC,BH23 3PX,50.7380422,-1.7507093
+Midlands,NHS Northamptonshire CCG,Lakeside Cottingham Road Surgery,NN17 2UR,52.4905166,-0.7121299999999999
+Midlands,NHS Northamptonshire CCG,Lakeside Cottingham Road Surgery,NN17 2UR,52.4902565,-0.71287
+Midlands,NHS Telford and Wrekin CCG,"Teldoc, Malinslee",TF3 2JZ,52.6722311,-2.4548871
+East of England,NHS Castle Point and Rochford CCG,The Paddocks Community Centre,SS8 0JA,51.5195155,0.5901832
+East of England,NHS Cambridge and Peterborough CCG,North Brink Practice,PE13 1JU,52.6652066,0.1564637
+East of England,NHS Cambridge and Peterborough CCG,Stanground Surgery,PE2 8RB,52.5511831,-0.225622
+East of England,NHS Mid and South Essex CCG,Holy Trinity R C Parish,11357,40.7853613,-73.8252835
+East of England,NHS Basildon & Brentwood CCG,George Hurd Centre,SS14 2FL,51.5729489,0.461464
+London,NHS North Central London CCG,Peckwater Centre,NW5 2UP,51.54957470000001,-0.1376298
+London,NHS North Central London CCG,Oaklodge Medical Centre,HA8 0AP,51.6043591,-0.2716591
+London,NHS North West London CCG ,St. Charles Centre for Health and Wellbeing,W10 6DZ,51.522302,-0.216368
+London,NHS South West London CCG,Valley Park Surgery,CR0 4YD,51.383045,-0.128495
+NE Yorkshire,NHS Northumberland CCG,Alnwick Cricket Club,NE66 1BL,55.403411,-1.70154
+NE Yorkshire,NHS Northumberland CCG,Coquet Medical Group,NE65 0HD,55.3326107,-1.5805193
+NE Yorkshire,NHS Greater Huddersfield CCG,Kirkburton Health Centre,HD8 0SJ,53.607625,-1.700052
+NE Yorkshire,NHS Tees Valley CCG,Low Grange Health Village,TS6 6TD,54.5713628,-1.1679999
+NE Yorkshire,NHS Tees Valley CCG,Marsh House Medical Practice,TS23 2DG,54.6110115,-1.293557
+NE Yorkshire,NHS Newcastle Gateshead CCG,Newcastle Racecourse,NE3 5HP,55.0353797,-1.6117691
+NE Yorkshire,NHS Northumberland CCG,Ponteland Medical Group,NE20 9SD,55.0511768,-1.7497362
+NE Yorkshire,NHS Tees Valley CCG,Redcar Primary Care Hospital,TS10 4NW,54.6010214,-1.0694081
+NE Yorkshire,NHS Tees Valley CCG,Riverside Medical Practice,SW8 2JB,51.4850307,-0.1259149
+NE Yorkshire,NHS North Tyneside CCG,Shiremoor Resource Centre,NE27 0HJ,55.0375408,-1.5062852
+NE Yorkshire,NHS Northumberland CCG,The Sele Medical Practice,NE46 1QJ,54.9695511,-2.0954728
+NE Yorkshire,NHS Tees Valley CCG,Thorntree Surgery,TS3 9NB,54.5652178,-1.183476
+NE Yorkshire,NHS Northumberland CCG,Well Close Medical Group,TD15 1LL,55.7725529,-2.0060073
+North West,NHS Morecambe Bay CCG ,Lunesdale Surgery ,LA6 2HQ,54.2006701,-2.6021395
+North West,NHS Blackpool CCG,Gorton Street,M18 7ER,53.45872,-2.1727273
+North West,NHS Blackpool CCG,South Shore Primary Care Centre,FY4 1TJ,53.7814691,-3.0468718
+North West,NHS Chorley and South Ribble CCG,The Ryan Medical Centre,PR5 6JD,53.7303868,-2.6635998
+North West,NHS East Lancashire,Rawtenstall Primary Health Care Centre - Rawtenstall,BB4 7PL,53.7008018,-2.280567
+North West,NHS East Lancashire,Clitheroe Health Centre,BB7 2JG,53.87383329999999,-2.3929201
+North West,NHS Bury CCG,Elizabethan Suite,BL9 0SW,53.5904949,-2.2997285
+North West,NHS Trafford CCG,Shay Lane Medical Centre,WA15 8NZ,53.3718857,-2.3158543
+North West,NHS Oldham CCG,Kepple Building ,S61 2SW,53.4479548,-1.415166
+North West,"NHS Heywood, Middleton & Rochdale CCG",Phoenix Centre,29607,34.8222181,-82.3741605
+South West,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",Batheaston Medical Center,BA1 7NP,51.4064098,-2.3170594
+South West,"NHS Bristol, North Somerset and South Gloucestershire CCG",Wingfield Surgery,S42 5LH,53.1804223,-1.3882547
+South West,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",Somer Centre,BA3 2UH,51.2875479,-2.4759384
+South West,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",Stockwood Medical Centre,BS14 8PT,51.4114004,-2.5452046
+South West ,"NHS Bristol, North Somerset and South Gloucestershire CCG",Severnview Family Practice ,BS35 1DP,51.6122467,-2.5179879
+South West ,"NHS Bristol, North Somerset and South Gloucestershire CCG",Concord Medical Centre,BS34 6BQ,51.5291885,-2.5553418
+South West,NHS Dorset CCG,Sturminster Newton Medical Centre,DT10 1QU,50.92778630000001,-2.3038026
+South West,NHS Dorset CCG,The Blandford group Practice,DT11 7BH,50.85900059999999,-2.1652841
+South West,NHS Dorset CCG,Digby Hall,DT9 3AA,50.9486262,-2.5134421
+South West,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",Malmesbury Primary Care Centre,SN16 0FB,51.5777025,-2.094682
+South West,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",Northlands Surgery,SN11 0HH,51.4419075,-2.0053444
+South West,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",Michael Herbert Hall,SP2 0JS,51.0789309,-1.8654105
+South West,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",Tidworth Leisure Centre,SP9 7QN,51.2372486,-1.6605277
+South West,NHS Somerset CCG,The Meadows,NG2,52.9390203,-1.1464807
+South West,NHS Kernow CCG ,St Clare's Medical Centre,TR18 3DX,50.1226381,-5.5451201
+South West,NHS Kernow CCG ,Mount Hawke,TR4,50.28219199999999,-5.206661
+Midlands ,NHS Birmingham and Solihull CCG,Greenridge Surgery,B13 0HN,52.4273846,-1.8714496
+Midlands ,NHS Birmingham and Solihull CCG,Bath Row Medical Practice,B15 1LZ,52.4726492,-1.9086419
+Midlands ,NHS Sandwell and West Birmingham CCG,Cavendish Medical Practice,B16 0HZ,52.486432,-1.9430568
+Midlands ,NHS Sandwell and West Birmingham CCG,City Hospital - Cardiac Rehab Gym,40508,38.0426608,-84.4999675
+Midlands ,NHS Birmingham and Solihull CCG,Poplars Surgery,B24 9JN,52.5295083,-1.8324028
+Midlands ,NHS Birmingham and Solihull CCG,Iridium Medical Practice,B33 8TA,52.4776649,-1.8157949
+Midlands ,NHS Birmingham and Solihull CCG,Kingstanding Circle Surgery,B44 0UY,52.5536673,-1.8828749
+Midlands ,NHS Herefordshire and Worcestershire CCG,BHI Parkside,B61 0AZ,52.3374742,-2.0596683
+Midlands ,NHS Sandwell and West Birmingham CCG,Lyng Community Centre,NR9 5RJ,52.7178465,1.0587512
+Midlands ,NHS South Warwickshire CCG,Studley Village Hall,B80 7HJ,52.2719391,-1.8982882
+Midlands ,NHS Birmingham and Solihull CCG,Yardley Green Medical Centre,B9 5PU,52.4758733,-1.8390497
+Midlands ,NHS Coventry and Rugby CCG,Priory Gate Practice,CV1 4FS,52.4145382,-1.5052101
+Midlands ,NHS Coventry and Rugby CCG,Coventry and North Warwickshire Cricket Club,CV3 1HB,52.40517269999999,-1.4749196
+Midlands ,NHS South Warwickshire CCG,Hastings House Medical Centre,CV35 9RH,52.1962685,-1.5937726
+Midlands ,NHS Derbyshire CCG,Derby Arena,DE24 8JB,52.91268059999999,-1.4463865
+Midlands ,NHS Derbyshire CCG,Babington Hospital,DE56 1WH,53.01871089999999,-1.4852189
+Midlands ,NHS Derbyshire CCG,St Oswalds Hospital,DE6 1DR,53.0132309,-1.7390292
+Midlands ,"NHS Leicester, Leicestershire and Rutland CCGs",Thorpe Astley,LE3,52.6162703,-1.195199
+Midlands ,NHS Lincolnshire CCG,Portland Medical Practice,LN5 7LB,53.22412989999999,-0.5399515
+Midlands ,NHS Lincolnshire CCG,Rustons Sports and Social Club,LN6 8RN,53.1966707,-0.5743611
+Midlands ,NHS Nottingham and Nottinghamshire CCG,Ashfield Health & Wellbeing Centre,19034,40.1381742,-75.17742779999999
+Midlands ,NHS Nottingham and Nottinghamshire CCG,Gamston Community Hall,NG2 6PS,52.9241743,-1.0997084
+Midlands ,NHS Nottingham and Nottinghamshire CCG,Richard Herrod Leisure Centre,NG4 1RL,52.9709179,-1.1030179
+Midlands ,NHS Nottingham and Nottinghamshire CCG,Cripps Medical Cntre,NG7 2QW,52.943135,-1.1968012
+Midlands ,NHS Northamptonshire CCG,Grange Park Primary Care Centre,NN4 5DW,52.1890945,-0.887705
+Midlands ,NHS Northamptonshire CCG,Mawsley Medical Centre,NN14 1SN,52.37648369999999,-0.8107875999999999
+Midlands ,NHS Northamptonshire CCG,Western favell HC,NN3 8DW,52.257998,-0.8349274
+Midlands ,NHS Northamptonshire CCG,Whitefields Surgery,NN4 9UW,52.221622,-0.9264819999999999
+Midlands ,NHS Lincolnshire CCG,The Sidings Medical Practice,PE21 8EG,52.9758067,-0.0326978
+Midlands ,NHS Lincolnshire CCG,Franklin Hall Spilsby,PE23 5LA,53.172445,0.097676
+Midlands ,NHS Derbyshire CCG,Sharley Park Leisure Centre,S45 9LX,53.1685211,-1.4067186
+Midlands ,NHS Derbyshire CCG,Thornbrook Surgery,SK23 0RH,53.323224,-1.911442
+Midlands ,NHS Staffordshire and Stoke on Trent CCG,Hanley Health Centre,ST1 2BN,53.0272569,-2.1706154
+Midlands ,NHS Staffordshire and Stoke on Trent CCG,Park Medical Centre,W6 0QG,51.4969767,-0.2428905
+Midlands ,NHS Staffordshire and Stoke on Trent CCG,Horsefair Practice Group Hillsprings Surgery,WS15 2FH,52.7672439,-1.9477683
+Midlands ,NHS Staffordshire and Stoke on Trent CCG,Horsefair Practice Group Hillsprings Surgery,WS15 2LB,52.7542363,-1.9388663
+Midlands ,NHS Walsall CCG,Forrester Street Surgery,WS2 9PL,52.585871,-1.995085
+Midlands ,NHS Walsall CCG,Bloxwich Active Living Centre,WS3 2DA,52.6119171,-1.9981311
+Midlands ,NHS Walsall CCG,Oak Park Leisure Centre,WS9 9PQ,52.6312637,-1.9279944
+Midlands ,NHS Wolverhampton CCG,Alfred Squire Road HC,WV11 1XU,52.5994243,-2.0816742
+Midlands,NHS Walsall CCG,Keys Medical Centre,OX5 1AP,51.8215872,-1.2892413
+Midlands ,NHS Wolverhampton CCG,Whitmore Reans HC,WV6 0QL,52.5950481,-2.1436311
+North West ,NHS Cheshire CCG,City Walls Medical Centre,CH1 2NR,53.1917836,-2.896653
+North West ,NHS Cheshire CCG,Cheshire View.,CH3 7PT,53.182949,-2.8115551
+North West ,NHS Cheshire CCG,Neston Medical Centre,CH64 3RA,53.2914389,-3.0643884
+North West ,NHS Cheshire CCG,"Dental Suite in Eagle Bridge Health & Wellbeing Centre, ",12203,42.68547,-73.839041
+North West ,NHS Cheshire CCG,Apollo Buckingham Health Sciences Campus Ltd ,CW1 5DU,53.0920065,-2.4238334
+North West ,NHS Cheshire CCG,Congleton Town Hall,CW12 1BN,53.16293719999999,-2.2107397
+North West ,NHS Cheshire CCG,Nantwich Civic Hall,CW5 5NF,53.06861110000001,-2.52
+North West ,NHS Cheshire CCG,Kingsmead Medical Centre,CW9 8UW,53.2430657,-2.5200858
+North West ,NHS Liverpool CCG,Speke Neighbourhood Health Centre,L24 2SF,53.3409755,-2.8396854
+North West,NHS Liverpool CCG,Kensington Park General Practice (Kensington Portakabin),W14 8HW,51.4966604,-0.2077853
+North West,NHS Liverpool CCG,Kensington Park General Practice (Kensington Portakabin),L7 2PT,53.4083115,-2.9489993
+North West ,NHS Morecambe Bay CCG,Grange Health Centre ,CV11 6AB,52.5267798,-1.4581939
+North West ,NHS Morecambe Bay CCG,Carnforth Clinic ground floor,LA5 9JU,54.129485,-2.7688615
+North West,NHS Fylde and Wyre,Little Thornton Theatre,FY5 3SZ,53.8723553,-3.0111352
+North West ,NHS Heywood Middleton and Rochdale CCG,Middleton Health Centre,M24 4EL,53.5480384,-2.2013606
+North West ,NHS Manchester CCG,Newton Heath Health Centre,M40 2JF,53.5023272,-2.1843091
+North West ,NHS Oldham CCG,Moorside,OL4 2SY,53.561018,-2.074316
+North West ,NHS Chorley and South Ribble CCG,Jubilee House,06114,41.7402737,-72.6863837
+North West ,NHS Chorley and South Ribble CCG,Clayton Brook Clinic,PR5 8ES,53.7119783,-2.6379011
+North West ,NHS Southport and Formby CCG,Ainsdale HWB Centre,PR8 3HW,53.6023431,-3.038837500000001
+North West ,NHS Stockport CCG,Bosden Moor Surgery,SK2 5JL,53.3915364,-2.1069598
+North West ,NHS Stockport CCG,Heald Green Village Hall,SK8 3JL,53.3668188,-2.2305869
+North West ,NHS Stockport CCG,Bredbury Medical Centre,SK6 2AH,53.42292399999999,-2.114039
+North West ,NHS Cheshire CCG,Wilmslow Health Centre,SK9 5HX,53.3224406,-2.237962
+North West ,NHS Cheshire CCG,Knutsford District Community Hospital,WA16 0BT,53.3020235,-2.3785108
+East of England ,NHS East and North Herts CCG,"Bellingham Common Room, University of Hertfordshire Education Corporation",AL10 9EU,51.7613666,-0.2482209
+East of England ,NHS Luton CCG,Medici Medical Centre,LU1 3UA,51.8741524,-0.4174266
+East of England ,NHS Milton Keynes CCG,Oakridge Medical Centre,MK14 6GL,52.06894750000001,-0.7783163
+East of England ,NHS Milton Keynes CCG,Central MK Medical Practice,MK13 8RN,52.0419925,-0.7753844999999999
+East of England ,NHS Bedfordshire CCG,Kings House,55313,45.1643536,-93.8758996
+East of England ,NHS Norfolk and Waveney CCG,Park Surgery,RH12 1BG,51.06435,-0.3273649
+East of England ,NHS Norfolk and Waveney CCG,Bowthorpe Health Centre ,NR5 9HA,52.63652829999999,1.2176808
+East of England ,NHS Cambridge and Peterborough CCG,Dumbelton Medical Centre,PE19 2HD,52.2110786,-0.2698635
+East of England ,NHS East and North Herts CCG,Courtenay House Surgery (part of Bancroft Medical Centre),SG5 1LH,51.95111989999999,-0.2773102
+East of England ,NHS Herts Valley CCG,Allum Hall,WD6 3PJ,51.6535762,-0.2816361
+NE Yorkshire,NHS Bradford District and Craven CCG,Whetley Medical Centre,BD8 9DW,53.8037563,-1.776602
+NE Yorkshire,NHS Bradford District and Craven CCG,Windhill Green Emerald Suite,BD18 1QF,53.83517399999999,-1.766658
+NE Yorkshire,NHS North Cumbria CCG,Orchard House Surgery,CB8 8NU,52.2460075,0.4059406
+NE Yorkshire,NHS North Cumbria CCG,Maryport Rugby Club ,CA15 6NE,54.712978,-3.4926553
+NE Yorkshire,NHS County Durham CCG,PELTON & FELLROSE MEDICAL GROUP,10705,40.9194237,-73.8922572
+NE Yorkshire,NHS County Durham CCG,Bowburn Community Centre,DH6 5AT,54.73492049999999,-1.5256417
+NE Yorkshire,NHS County Durham CCG,Bowburn Community Centre,DH6 5AN,54.7357824,-1.5256321
+NE Yorkshire,NHS Tees Valley CCG,Feethams House,DL1 5AD,54.5228926,-1.554202
+NE Yorkshire,NHS County Durham CCG,NORTH HOUSE SURGERY,HG4 1HL,54.1391043,-1.5238888
+NE Yorkshire,NHS North Lincolnshire CCG,THE CENTRAL SURGERY BARTON,DN18 5ER,53.6841655,-0.4390776
+NE Yorkshire,NHS Bassetlaw CCG,Retford Hospital Outpatients Department ,DN22 7XF,53.3260422,-0.9546871000000001
+NE Yorkshire,NHS Doncaster CCG,Thorne Leisure Centre  ,DN8 5HX,53.6114066,-0.9542495
+NE Yorkshire,NHS North Lincolnshire CCG,SOUTH AXHOLME PRACTICE,DN9 1EP,53.5258967,-0.8222027
+NE Yorkshire,NHS East Riding of Yorkshire CCG,Beverley Race Course,HU17 8QZ,53.8431355,-0.4584377
+NE Yorkshire,NHS Calderdale CCG,Northowram Surgery,HX3 7JE,53.7428903,-1.8310818
+NE Yorkshire,NHS Leeds CCG,Lingwell Croft,LS10 3NB,53.7493637,-1.5360281
+NE Yorkshire,NHS Leeds CCG,Shenstone House Surgery,LS27 7PX,53.7592065,-1.5924419
+NE Yorkshire,NHS Leeds CCG,Woodhouse Health Centre,S13 7LY,53.3577807,-1.3723374
+NE Yorkshire,NHS Newcastle Gateshead CCG,The Bede Centre ,SE16 2AR,51.4923114,-0.055566
+NE Yorkshire,NHS Newcastle Gateshead CCG,RAWLING RD ,NE8,54.9484182,-1.6115042
+NE Yorkshire,NHS Sheffield CCG,Porter Brook Medical Centre,S11 8HN,53.3705556,-1.4836111
+NE Yorkshire,NHS Sheffield CCG,Dore Surgery,S17 3NF,53.327763,-1.5347331
+NE Yorkshire,NHS Sheffield CCG,The Mathews Practice (priority 1),S12 3GG,53.3448207,-1.4262827
+NE Yorkshire,NHS Sheffield CCG,Burncross,S35,53.460098,-1.487568
+NE Yorkshire,NHS Sheffield CCG,Valley Medical Centre,98055,47.44334019999999,-122.2139169
+NE Yorkshire,NHS Rotherham CCG,Rawmarsh Customer Service Centre,S62 6AE,53.4572742,-1.3382853
+NE Yorkshire,NHS Rotherham CCG,Oak House,SL2 4FA,51.5269856,-0.5769793
+NE Yorkshire,NHS Sheffield CCG,Meadowgreen Health Centre,S8 8DJ,53.32320600000001,-1.4638534
+NE Yorkshire,NHS Bassetlaw CCG,Newgate Practice,S80 1HP,53.30105589999999,-1.12343
+NE Yorkshire,NHS Sunderland CCG,Riverview Health Centre,SR1 1XW,54.90544620000001,-1.3730178
+NE Yorkshire,NHS County Durham CCG,Peterlee Health Centre,SR8 1AD,54.758045,-1.335098
+NE Yorkshire,NHS Tees Valley CCG,MARSH HOUSE MEDICAL PRACTICE,TS23 2DG,54.6110115,-1.293557
+NE Yorkshire,NHS East Riding of Yorkshire CCG,Medical Centre Bridlington - practice 3,YO16 4LZ,54.0847896,-0.2014166
+NE Yorkshire,NHS East Riding of Yorkshire CCG,Alfred Bean Hospital,YO25 5JR,54.0121981,-0.4231944
+South East ,NHS East Berkshire CCG,Langley Health Centre,SL3 8LE,51.4954885,-0.5413072999999999
+South East ,NHS Southampton City CCG,University Health Service ,40536,38.0323621,-84.5088443
+South East ,NHS Brighton and Hove CCG,County Oak Medical,BN1 8DD,50.86176889999999,-0.127961
+South East ,NHS West Sussex CCG,Strand Medical Group ,BN12 6FA,50.8184846,-0.4109347
+South East ,NHS West Sussex CCG,Durrington Health Centre,BN13 2RX,50.83041129999999,-0.41315
+South East ,NHS Brighton and Hove CCG,Portslade Health Centre,BN41 1LX,50.833594,-0.2140349
+South East ,NHS West Sussex CCG,Northbourne Medical Centre,BN43 6BT,50.8415809,-0.2582065
+South East ,NHS Kent and Medway CCG,Northgate Medical Practice ,CT1 1WL,51.284349,1.086774
+South East ,NHS Kent and Medway CCG,"Building A, Fleet Health Campus",DA11 8BZ,51.43571679999999,0.3409313
+South East ,NHS North East Hampshire & Farnham CCG,Princes Hall,GU11 1NX,51.2504565,-0.7680884
+South East ,NHS North East Hampshire & Farnham CCG,Southwood Practice,GU14 0NA,51.2913222,-0.7871722999999999
+South East ,NHS Buckinghamshire CCG,Adams Park,HP12 4HJ,51.6303361,-0.7997278
+South East ,NHS Buckinghamshire CCG,Chesham Town Hall,HP5 1EP,51.7048461,-0.6138808
+South East ,NHS Kent and Medway CCG,Lordswood HLC ,ME5 8TJ,51.33410079999999,0.5444481999999999
+South East ,NHS Oxfordshire CCG  ,Kennington Health CeNotre,OX1 5PY,51.7177417,-1.2446137
+South East,NHS Oxfordshire CCG  ,Didcot Civic Hall,OX11 7JN,51.6064683,-1.2485837
+South East,NHS Oxfordshire CCG  ,Wantage Health Centre,OX12 9BN,51.5985856,-1.4261144
+South East,NHS Oxfordshire CCG  ,Clifton Hampden Village Hall,OX14,51.65802499999999,-1.2075419
+South East,NHS Oxfordshire CCG  ,Cherwell School,OX2 7EE,51.7755308,-1.2592327
+South East,NHS Oxfordshire CCG  ,"Building 139, The Command Works, Bicester Heritage",OX26 5HA,51.9152859,-1.1424073
+South East,NHS Oxfordshire CCG  ,Islip Villiage Hall,OX5 2TA,51.8233617,-1.238805
+South East ,NHS West Sussex CCG,Bognor Medical Centre,PO21 1UT,50.7837047,-0.67718
+South East ,NHS Portsmouth City CCG,Southsea Medical Centre,PO5 1AT,50.7964759,-1.0805103
+South East ,NHS Berkshire West CCG,Wokingham Medical Centre / Bradbury Centre,RG40 1XS,51.4111612,-0.8316216999999999
+South East ,NHS Berkshire West CCG,Chalfont Surgery / Salvation Army Hall,RG6 5UG,51.4266382,-0.9332069
+South East ,NHS Surrey Heartlands CCG,Holmhurst Surgery,RH1 2NP,51.2517814,-0.1538423
+South East ,NHS West Sussex CCG,Pound Hill Medical Group ,RH10 7DX,51.11852769999999,-0.1562944
+South East ,NHS Surrey Heartlands CCG,Medwyn Surgery,RH4 1SD,51.2347664,-0.3241673
+South East ,NHS Surrey Heartlands CCG,Centenary Hall,71104,32.4847432,-93.73215560000001
+South East ,NHS Kent and Medway CCG,Sevenoaks Medical Centre,TN13 2JD,51.279198,0.177047
+South East ,NHS Kent and Medway CCG,St Stephens Medical Centre ,E3 5ED,51.5322059,-0.0311912
+South East,NHS East Sussex,"The Kings Church, Hastings ",TN34 2SA,50.8869344,0.5700092999999999
+South East,NHS Surrey Heartlands CCG,Hythe Centre ,TW18 3HD,51.4285278,-0.523849
+London ,NHS South West London CCG,Parkway Health Centre,CR0 0JA,51.3435128,-0.0182029
+London ,NHS South East London CCG,Westwood Mason Hall,DA16 3RD,51.4644221,0.0963805
+London ,NHS South East London CCG,Erith Health Centre,DA8 1RQ,51.47969399999999,0.1806959
+London ,NHS Walthalm Forest CCG,Oliver Road Polyclinic,E10 5LG,51.5599594,-0.0133086
+London ,NHS Newham CCG ,Essex Lodge,E13 0AS,51.5272449,0.0275088
+London ,NHS Walthalm Forest CCG,St Edmunds Church,19971,38.7128993,-75.0786476
+London ,NHS North West London CCG ,Tithe Farm Sports & Social Club,HA2 0XH,51.5703974,-0.3649026
+London,NHS North Central London CCG,Watling Medical Centre,HA7 4NU,51.621358,-0.296442
+London,NHS North Central London CCG,Lane End Medical Group,HA8 9GJ,51.61530010000001,-0.2748394
+London ,NHS South East London CCG,The Waldron Health Centre,SE14 6LD,51.4767325,-0.0318975
+London ,NHS South East London CCG,"Upper Floor, The Jenner Health Centre",SE23 1HU,51.44217459999999,-0.0423112
+London ,NHS South East London CCG,Charlton House,SE7 8RE,51.4807516,0.0370837
+London ,NHS South East London CCG,"Oxleas NHS Foundation Trust, Wensley Close",SE9 1TQ,51.4508719,0.0556886
+London,NHS South West London CCG,The Junction Health Centre,SW11 2NU,51.4650584,-0.1712969
+London ,NHS South West London CCG,1st East Putney Scout Hut,SW15 2LQ,51.461354,-0.2124514
+London ,NHS South West London CCG,Trevelyan House Surgery,SW17 0RT,51.42486599999999,-0.1711502
+London ,NHS South West London CCG,Brocklebank Health Centre,SW18 4DU,51.44828510000001,-0.1889519
+London ,NHS South East London CCG,Streatham Place Surgery,SW2 4QY,51.4463533,-0.1265988
+London ,NHS South West London CCG,The Nelson Health Centre,SW20 8DA,51.4106725,-0.2089695
+London ,NHS North West London CCG ,Violet Melchett,SW3 5RR,51.4868574,-0.166554
+London ,NHS South West London CCG,York Medical Centre,YO30 4RZ,53.98537779999999,-1.0999232
+London ,NHS South West London CCG,Acorn Group Practice,TW1 4EA,51.4466537,-0.3290996
+London ,NHS South West London CCG,Parkshot Medical Practice,TW9 2RG,51.4643328,-0.3019903
+London ,NHS South West London CCG,Parkshot Medical Practice,TW9 2RG,51.4643717,-0.3020164
+London ,NHS North West London CCG ,The Dominion Centre,N22 6DS,51.5960303,-0.1092903
+London ,NHS North West London CCG ,Chiswick Health Centre,W4 1RX,51.4931431,-0.2606179
+London ,NHS North West London CCG ,Lords Cricket Ground  ,NW8 8QN,51.52983099999999,-0.1721564
+South West,NHS Somerset CCG,Wincanton Community Hospital,BA9 9DQ,51.0587701,-2.4180392
+South West,NHS Dorset CCG,Wareham Hospital ,BH20 4RN,50.6866342,-2.1174614
+South West,NHS Dorset CCG,Marine & Oakridge Pship,64804,36.998082,-94.55122999999999
+South West,"NHS Bristol, North Somerset and South Gloucestershire CCG",Fishponds Family Practice,BS16 3TD,51.479992,-2.5266845
+South West,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",West View Surgery,BS31 1BX,51.4126255,-2.501538
+South West,"NHS Bristol, North Somerset and South Gloucestershire CCG",Knowle West Healthy Living Centre,BS4 1WH,51.4279905,-2.596611
+South West,"NHS Bristol, North Somerset and South Gloucestershire CCG",Lodgeside Surgery ,BS15 1WW,51.46805699999999,-2.517139
+South West,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",Steam,18040,40.7589924,-75.2313715
+South West,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",Pewsey Surgery,SN9 5AQ,51.3392332,-1.7628761
+South West,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",Salisbury Cathedral,SP1 2EJ,51.06611909999999,-1.7975462
+South West,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG","Salisbury Plain Health Centre, Larkhill",SP4 8QY,51.19737360000001,-1.8205499
+South West,NHS Kernow CCG,Pensilva Health Centre,PL14 5RP,50.50377510000001,-4.4103067
+South West,NHS Dorset CCG,The Atrium Healthth Centre ,DT1 1QR,50.711098,-2.4381006
+South West,NHS Devon CCG,Culm Valley Integrated Centre for Health,EX15 1FE,50.8641444,-3.3927235
+South West,NHS Devon CCG,Lords Meadow Leisure Centre,EX17 1ER,50.7910093,-3.6446431
+South West,NHS Devon CCG,St Thomas Health Centre,EX4 1HJ,50.7144752,-3.5452633
+South West,NHS Somerset CCG,College Way Surgery,TA1 4TY,51.0048047,-3.1211207
+South West,NHS Somerset CCG,Wellington Community Hospital,TA21 8QQ,50.9762431,-3.2270776
+South West,NHS Devon CCG,Sherborne House,GL54 3DZ,51.8306715,-1.7563207
+South West,NHS Kernow CCG,Helston Medical Centre,TR13 8AU,50.09970980000001,-5.2699979
+South West,NHS Kernow CCG,Redruth Health Centre,TR15 1AU,50.2339655,-5.2316758
+South West,NHS Kernow CCG,Bodriggy Surgery,TR27 4PB,50.1871635,-5.4128443
+Midlands,NHS Birmingham and Solihull CCG,WoodGate Valley Practice,B32 3SD,52.4427359,-1.9915152
+Midlands,NHS Birmingham and Solihull CCG,Harlequin Surgery,B34 7BP,52.4952485,-1.7779475
+Midlands,NHS Staffordshire and Stoke on Trent CCGs,Coton Centre,B79 9AA,52.65414209999999,-1.7047291
+Midlands,NHS Coventry and Rugby CCG,Broomfield Park Medical Centre,CV1 3HQ,52.4078049,-1.527585
+Midlands,NHS Warwickshire North CCG,Abbeygate Shopping Centre (Unit 6),CV11 4EL,52.5238889,-1.4680556
+Midlands,NHS Warwickshire North CCG,Bedworth Civic Hall,CV12 8NF,52.4786467,-1.4714457
+Midlands,NHS Coventry and Rugby CCG,Quinton Park Medical Centre,CV3 5PZ,52.3912668,-1.503874
+Midlands,NHS Coventry and Rugby CCG,Quinton Park Medical Centre,CV3 5PZ,52.3911893,-1.5039342
+Midlands,NHS South Warwickshire CCG,Royal Leamington Spa Rehabilitation Hospital,CV34 6SR,52.2684804,-1.5396925
+Midlands,NHS Coventry and Rugby CCG,Tile Hill Primary Care Centre,CV4 9PQ,52.4068735,-1.5786166
+Midlands,NHS South Warwickshire CCG,Southam Clinic,CV47 1PF,52.2523516,-1.385575
+Midlands,NHS Coventry and Rugby CCG,Holbrooks Health Team,CV6 4HN,52.4485427,-1.5112347
+Midlands,NHS Derby and Derbyshire CCG,Oaklands Village and Community Care Centre,DE11 8LH,52.7746393,-1.5504956
+Midlands,"NHS Leicester, Leicestershire and Rutland CCGs",Measham Leisure Centre,DE12 7HR,52.7054976,-1.5106942
+Midlands,NHS Derby and Derbyshire CCG,Littlewick,SL6,51.5116314,-0.7914198
+Midlands,NHS Lincolnshire CCG,John Coupland Hospital,DN21 2TS,53.4118799,-0.7847
+Midlands,NHS Herefordshire and Worcestershire CCG,Kidderminster Medical Centre,DY10 2BG,52.3893251,-2.2457006
+Midlands,"NHS Leicester, Leicestershire and Rutland CCGs",Hinckley Leisure Centre,LE10 1BZ,52.54008469999999,-1.3696155
+Midlands,"NHS Leicester, Leicestershire and Rutland CCGs",St Peters Health Centre,LE2 0TA,52.6316172,-1.1199291
+Midlands,"NHS Leicester, Leicestershire and Rutland CCGs",Merridale Medical Centre ,LE3 1BL,52.6198399,-1.1602739
+Midlands,NHS Leicester City CCG,Peepul Centre ,LE4 6DP,52.6451985,-1.1220055
+Midlands,NHS Lincolnshire CCG,Marisco Medical Practice,LN12 1DP,53.33652550000001,0.2583645
+Midlands,NHS Lincolnshire CCG,Lincolnshire Showground,LN2 2NA,53.28633620000001,-0.5450368
+Midlands,NHS Derby and Derbyshire CCG,Shirebrook Leisure Centre,NG20 8JQ,53.2054744,-1.2153626
+Midlands,NHS Nottingham and Nottinghamshire CCG,"Joe Hallam Suite, Newark Showground",NG24 2NY,53.0987095,-0.7680443
+Midlands,NHS Nottingham and Nottinghamshire CCG,Kings Meadow,RG1 8AB,51.459609,-0.9607989999999998
+Midlands,NHS Lincolnshire CCG,Springfields Events and Conference Centre,PE12 6ET,52.8005597,-0.1273218
+Midlands,NHS Lincolnshire CCG,The Storehouse Skegness,PE25 1BY,53.150057,0.3461814
+Midlands,NHS Derby and Derbyshire CCG,The Winding Wheel,WF10 4PS,53.7098324,-1.3352144
+Midlands,NHS Derby and Derbyshire CCG,The Winding Wheel,WS12 3XP,52.6918784,-1.9999444
+Midlands,NHS Derby and Derbyshire CCG,The Springs Health Centre,S43 4PL,53.2766731,-1.266067
+Midlands,NHS Staffordshire and Stoke on Trent CCGs,Roman Way Hotel,WS11 1SH,52.6800417,-2.0532479
+Midlands,NHS South East Staffordshire and Seisdon Peninsula CCG,Lichfield Cathedral,WS13 7LD,52.6854862,-1.8303202
+Midlands,NHS Staffordshire and Stoke on Trent CCGs,St Pauls Church,16801,40.7961857,-77.8587073
+Midlands,NHS Staffordshire and Stoke on Trent CCGs,Newcastle Under Lyme College,ST5 2GB,53.0151284,-2.2378672
+Midlands,NHS Staffordshire and Stoke on Trent CCGs,Biddulph Town Hall,ST8 6AR,53.116682,-2.1753922
+Midlands,NHS Derby and Derbyshire CCG,Buxton Medical Practice ,SK17 9BZ,53.2531078,-1.9206133
+North West,NHS Bury CCG,Ramsbottom Civic Hall,BL0 9AJ,53.64939500000001,-2.318472
+North West,NHS Bolton CCG,Avondale Health Centre,BL1 4JP,53.5884021,-2.4517829
+North West,NHS Bolton CCG,Wwaters Meeting Health Centre,BL1 8TT,53.59605579999999,-2.4296319
+North West,NHS Bolton CCG,Breightmet Health Centre,BL2 6NT,53.5824717,-2.3842455
+North West,NHS Bolton CCG,Peter House Surgery,BL5 3UB,53.5479224,-2.5086754
+North West,NHS Cheshire CCG,St Columba:  ,SW1X 0BD,51.496668,-0.163285
+North West,NHS Cheshire CCG,Ellesmere Port Civic Hall,CH65 0AZ,53.2770609,-2.9033501
+North West,NHS Oldham CCG,ICC ,WC1V 7QH,51.5180399,-0.1122336
+North West,NHS Stockport CCG,Lowfield Surgery,SK2 6RW,53.4000248,-2.1559454
+North West,NHS Stockport CCG,Hazel Grove Baptist Church,SK7 4EX,53.3780289,-2.1217634
+North West,NHS Wigan Borough CCG,St Peter's Pavillion,WN2 3DN,53.53625899999999,-2.5854222
+North West,NHS Wigan Borough CCG,Golborne Parkside Sports & Community Club,WA3 3HG,53.479273,-2.583477
+North West,NHS Cheshire CCG,"Site 1 - Victoria Hall, ",ST1 3AD,53.0229763,-2.1753015
+North West,NHS Liverpool CCG,West Derby Medical Centre,L12 8TQ,53.4313484,-2.8969537
+North West,NHS South Sefton CCG,North Park  Health Centre N84019,L20 5DQ,53.4580067,-2.9946274
+North West,NHS Knowsley CCG,One Stop Shop - Kirkby,L31 3HF,53.506505,-2.9326687
+North West,NHS Liverpool CCG,Bousfield Surgery,L4 4PP,53.4315388,-2.9776574
+North West,NHS Liverpool CCG,Parkview Medical Centre,M8 4RF,53.51871999999999,-2.2323822
+North West,NHS Morecambe Bay CCG,Ulverston Community Health Centre,LA12 7BT,54.1989035,-3.0976737
+North West,NHS Morecambe Bay CCG,Waterloo House Surgery ,LA18 4BT,54.2084106,-3.2680083
+North West,NHS Manchester CCG,The Grange Community Centre,M11 3TQ,53.47962570000001,-2.2007298
+North West,NHS Manchester CCG,Jain Community Centre,M12 5SH,53.4507041,-2.1922363
+North West,NHS Manchester CCG,The Vallance Centre,M13 9UJ,53.4698559,-2.2241594
+North West,NHS Manchester CCG,Chancellor's Hotel,94102,37.7886997,-122.4087889
+North West,NHS Salford CCG,Little Hulton Library,M28 0AZ,53.5295999,-2.4211536
+North West,NHS Salford CCG,Eccles Recreation / Leisure Centre,M30 0DD,53.482165,-2.339113
+North West,NHS Salford CCG,Irlam and Cadishead Recreation / Leisure Centre,M44 6BR,53.4428047,-2.4223056
+North West,NHS Manchester CCG,The Irish Community Centre,NW1 9XB,51.5438746,-0.1323643
+North West,NHS Cheshire CCG,"Civic Centre, ",94102,37.7819575,-122.4184817
+East of England,NHS Herts Valleys CCG,Harpenden Public Halls,AL5 1TE,51.81428039999999,-0.3535976
+East of England,NHS Cambridgeshire and Peterborough CCG,Cornford House Surgery,CB1 8BA,52.18600439999999,0.1566716
+East of England,NHS Cambridgeshire and Peterborough CCG,Granta Medical Practices,CB21 4JS,52.0983372,0.2804657
+East of England,NHS Cambridgeshire and Peterborough CCG,Huntingdon Road Surgery,CB3 0DB,52.2141431,0.109948
+East of England,NHS West Suffolk CCG,The Epicentre,LA22 9DR,54.43226000000001,-2.963623
+East of England,NHS Mid Essex CCG,Rivermead Gate Medical Practice ,CM1 1TR,51.740849,0.4729581
+East of England,NHS Mid Essex CCG,Melbourne House Surgery,CM1 2DY,51.7492836,0.4518961999999999
+East of England,NHS Mid Essex CCG,Whitley House Surgery ,CM1 3RW,51.7264208,0.456043
+East of England,NHS Mid Essex CCG,Crouch Vale Medical Centre,CM3 5QP,51.6531149,0.6051734
+East of England,NHS Mid Essex CCG,Crouch Vale Medical Centre,CM3 5QP,51.6531338,0.6053732
+East of England,NHS Mid Essex CCG,St Michaels Hospital,BS2 8EG,51.4591667,-2.6
+East of England,NHS Mid Essex CCG,Fern House Surgery,CM8 1BH,51.7976119,0.6373753
+East of England,NHS West Suffolk CCG,Cornard Surgery,CO10 0DH,52.0329796,0.7524632
+East of England,NHS West Suffolk CCG,Lavenham Branch Surgery,CO10 9SA,52.1061636,0.7936698
+East of England,NHS North East Essex CCG,Fryatt Hospital,CO12 4EX,51.9339946,1.2608022
+East of England,NHS Mid Essex CCG,Pump House Surgery,CO6 2SW,51.9273343,0.6945279
+East of England,NHS Ipswich and East Suffolk CCG,Constable Country Medical Practice,CO7 6RT,51.97734029999999,1.0262386
+East of England,NHS East and North Hertfordshire CCG,Halsey Hall,EN8 8NJ,51.6996042,-0.0350214
+East of England,NHS East and North Hertfordshire CCG,Halsey Hall,WD18 0JE,51.6589167,-0.4024003
+East of England,NHS Ipswich and East Suffolk CCG,The Grove Medical Centre,TW20 9QN,51.4309701,-0.5452239999999999
+East of England,NHS Ipswich and East Suffolk CCG,Woodbridge Community Hall,IP12 4AU,52.0900059,1.3158675
+East of England,NHS Ipswich and East Suffolk CCG,The Mix ,EC1V 1JN,51.52832309999999,-0.0913927
+East of England,NHS Ipswich and East Suffolk CCG,Debenham Leisure Centre,IP14 6BL,52.2233105,1.1700221
+East of England,NHS Ipswich and East Suffolk CCG,Sizewell Sports & Social Club,74055,36.2853677,-95.84637080000002
+East of England,NHS Ipswich and East Suffolk CCG,Sizewell Sports & Social Club,IP16 4JX,52.20493459999999,1.5925267
+East of England,NHS Ipswich and East Suffolk CCG,Saxmundham Health,IP17 1DY,52.2182426,1.4918921
+East of England,NHS Norfolk and Waveney CCG,Sole Bay Health Centre,IP18 6GY,52.3365758,1.6658394
+East of England,NHS West Suffolk CCG,Jubilee Centre,CB2 3BZ,52.2044138,0.1229042
+East of England,NHS Ipswich and East Suffolk CCG,Trinity Park Conference Centre,IP3 8UH,52.0328763,1.2227858
+East of England,NHS Ipswich and East Suffolk CCG,Hadleigh Health Centre,IP7 5DN,52.0427077,0.9519692999999999
+East of England,NHS Bedfordshire CCG,"Leagrave Centre
+",LU4 9ND,51.9025319,-0.4709703
+East of England,NHS Bedfordshire CCG,Toddington Medical Centre,LU5 6DE,51.9452331,-0.5290832999999999
+East of England,NHS Bedfordshire CCG,Leighton Buzzard Rugby Club ,LU7 9HR,51.9079688,-0.6149966
+East of England,NHS Milton Keynes CCG,Newport Pagnell Medical Centre,MK16 8QT,52.0864128,-0.7254809999999999
+East of England,NHS Milton Keynes CCG,Asplands Medical Centre,MK17 8QP,52.01262329999999,-0.6496307
+East of England,NHS Bedfordshire CCG,Guru Nanak Gurdwara,DA12 1AG,51.4392329,0.3771295
+East of England,NHS Bedfordshire CCG,Guru Nanak Gurdwara,B66 3AP,52.4957273,-1.9716906
+East of England,NHS Milton Keynes CCG,Whitehouse Medical Centre,BT37 9UH,54.655114,-5.918466599999999
+East of England,NHS Norfolk and Waveney CCG,The Market Surgery,NR11 6BW,52.7918664,1.2530744
+East of England,NHS Norfolk and Waveney CCG,Hoveton Village Hall,NR12 8DU,52.7161138,1.4173594
+East of England,NHS Norfolk and Waveney CCG,Poringland Community Centre,NR14 7WB,52.5704552,1.3428345
+East of England,NHS Norfolk and Waveney CCG,Sheringham Medical Practice,NR26 8RT,52.94010790000001,1.2132458
+East of England,NHS Norfolk and Waveney CCG,Rossi's leisure centre,NR28 0JQ,52.8192405,1.3678692
+East of England,NHS Norfolk and Waveney CCG,Gurney Surgery,NR3 1SE,52.6341488,1.2985745
+East of England,NHS Norfolk and Waveney CCG,Drayton Surgery ,PO6 1PA,50.8463648,-1.0446679
+East of England,NHS Thurrock CCG,Chadwell Medical Centre,RM16 4JD,51.4821334,0.3683227
+East of England,NHS Southend CCG,Belle Vue Baptist Church,SS1 2QZ,51.54018139999999,0.729992
+East of England,NHS Southend CCG,"Saxon Hall
+",SS2 6UN,51.5708944,0.6832138999999999
+East of England,NHS Southend CCG,Salvation Army,SE1 6BN,51.4965956,-0.099385
+East of England,NHS Castle Point and Rochford CCG,Benfleet Clinic,SS7 5AD,51.5598326,0.5504779
+East of England,NHS Cambridgeshire and Peterborough CCG,Thomas Walker Surgery,PE1 2QP,52.58402239999999,-0.2417666
+East of England,NHS Cambridgeshire and Peterborough CCG,Thistlemoor Medical Centre,PE1 3HP,52.5940421,-0.2563541
+East of England,NHS Cambridgeshire and Peterborough CCG,The Fleet Community Centre in conjuction with Greater Peterborough Network,PE2 8DL,52.556363,-0.235944
+East of England,NHS Cambridgeshire and Peterborough CCG,The Old Exchange Surgery,PE27 5PB,52.3248456,-0.0733439
+East of England,NHS Cambridgeshire and Peterborough CCG,Charles Hicks Centre,PE29 3EZ,52.33406369999999,-0.187154
+East of England,NHS Norfolk and Waveney CCG,Snettisham Surgery,PE31 7PE,52.8792552,0.4982265
+East of England,NHS Norfolk and Waveney CCG,Manor Farm Medical Centre,PE37 7QN,52.6490944,0.6917839
+East of England,NHS Cambridgeshire and Peterborough CCG,BMC @ Werrington Surgery,PE4 6QF,52.6143355,-0.2722197
+East of England,NHS Cambridgeshire and Peterborough CCG,The Jenner Health Centre ,SE23 1HU,51.44217459999999,-0.0423112
+North East and Yorkshire,NHS Hull CCG,Kingswood Health Centre,BS15 4EJ,51.4630039,-2.4999376
+North East and Yorkshire,NHS Hull CCG,EAST HULL FAMILY PRACTICE,HU8 9RW,53.7791596,-0.2687103
+North East and Yorkshire,NHS Hull CCG,Diadem Medical Practice,HU9 4AL,53.772381,-0.268363
+North East and Yorkshire,NHS Leeds CCG,Ireland Wood Surgery,LS16 6FR,53.8467585,-1.6038999
+North East and Yorkshire,NHS Sheffield CCG,Bieghton Surgery,BN1 6AG,50.83851960000001,-0.1481285
+North East and Yorkshire,NHS Sheffield CCG,University Health Service Health Centre,40536,38.0323621,-84.5088443
+North East and Yorkshire,NHS South Tyneside CCG,Cleadon Park Primary Care Centre,NE34 8PS,54.9717451,-1.4151444
+North East and Yorkshire,NHS Sunderland CCG,Millfield Medical Group,SR4 7AF,54.906523,-1.4002372
+North East and Yorkshire,NHS Tees Valley CCG,The Garth,LD4 4AG,52.133667,-3.536803
+North East and Yorkshire,NHS Tees Valley CCG,Thorntree Surgery,TS3 9NB,54.5652178,-1.183476
+North East and Yorkshire,NHS Wakefield CCG,St Swithun's Community Centre,WF1 4RR,53.6891536,-1.4795543
+North East and Yorkshire,NHS North Kirklees CCG,Wellington Street Car Park ,S1 4LY,53.37891880000001,-1.4747906
+South East,NHS Kent and Medway CCG,"Swanley Town Council, Alexandra Suite",BR8 7BU,51.39628279999999,0.1712533
+South East,NHS Kent and Medway CCG,Dover Health Centre                                  ,CT16 1RH,51.1291635,1.3114715
+South East,NHS West Sussex CCG,St Lawrence Surgery,BN14 7JL,50.8233749,-0.3914748
+South East,NHS West Sussex CCG,Lancing Parish Hall,BN15 8AJ,50.8237359,-0.3237677
+South East,NHS West Sussex CCG,Westcourt Medical Centre,BN16 3NX,50.8121138,-0.51511
+South East,NHS Brighton and Hove CCG,Brighton Racecourse,BN2 9XZ,50.8298439,-0.1126045
+South East,NHS Kent and Medway CCG,Dartford Football Club,DA1 1RT,51.4369337,0.2308728
+South East,NHS Surrey Heartlands CCG,G-Live,GU1 2AA,51.2383278,-0.5662208
+South East,NHS Surrey Heartlands CCG,St Christopher's Church,77080,29.803383,-95.5237156
+South East,NHS Surrey Heartlands CCG,Cranleigh Village Hall,GU6 8AF,51.1405,-0.4881
+South East,NHS Buckinghamshire CCG,Wycombe Town Hall,HP11 2XE,51.6279833,-0.7501443999999999
+South East,NHS Buckinghamshire CCG,Mandeville Stadium,HP21 9PP,51.8008257,-0.8000953
+South East,NHS Surrey Heartlands CCG,H&M Building,67357,37.33813019999999,-95.31963089999999
+South East,NHS Surrey Heartlands CCG,Fitznells Surgery,KT17 1TF,51.3519632,-0.2520493
+South East,NHS Kent and Medway CCG,Rochester Healthy Living Centre & Lordswood Healthy Livng Centre ,ME1 2EL,51.3793432,0.5076584
+South East,NHS Kent and Medway CCG,Heather House Day Centre,30075,34.0715454,-84.41396189999999
+South East,NHS Kent and Medway CCG,St Mary's Medical Centre,64014,39.0252184,-94.26402730000001
+South East,NHS Oxfordshire CCG,"Grimsbury Community CeNotre, ",OX16 3WT,52.06738499999999,-1.3213259
+South East,NHS Oxfordshire CCG,Carterton Health Centre,OX18 3LJ,51.7587175,-1.5965514
+South East,NHS West Sussex CCG,The Selsey Centre,PO20 0SE,50.7387184,-0.7822479999999999
+South East,NHS West Sussex CCG,Tangmere Hall,PO20 2HS,50.8514475,-0.7181050999999999
+South East,NHS Berkshire West CCG,Eldon Square Surgery,NE1 7XR,54.9749668,-1.6148694
+South East,NHS East Berkshire CCG,Birch Hill Medical Practice,RG12 7WW,51.3911983,-0.7522614
+South East,NHS Berkshire West CCG,Newbury Racecourse ,RG14 7NZ,51.3971686,-1.3065175
+South East,NHS Berkshire West CCG,Emmer Green Surgery ,RG4 8RA,51.4827338,-0.9707792
+South East,NHS West Sussex CCG,Meridian Hall,M5E 1B2,43.6466723,-79.3760205
+South East,NHS Kent and Medway CCG,Tonbridge Baptist Church,TN10 3HZ,51.2104819,0.2754415
+South East,NHS Kent and Medway CCG,Headcorn Surgery ,TN27 9AA,51.1700732,0.633726
+South East,NHS East Sussex CCG,Saxonbury House Medical Group ,TN6 1DL,51.0562796,0.1616812
+South East,NHS Oxfordshire CCG,RAC Business Park,81303,37.2374654,-107.8733829
+South East,NHS West Hampshire CCG,Archers Practice,SO50 9AG,50.970948,-1.3531405
+London,NHS South East London CCG,Oaks Park Medical Centre,SE20 8QA,51.4132974,-0.0631695
+London,NHS South East London CCG,Paxton Green Group Practice,SE21 8AU,51.4283435,-0.08631599999999999
+London,NHS South East London CCG,Sydenham Green Health Centre,SE26 4TH,51.4290654,-0.038112
+London,NHS North West London CCG ,Willesden Centre for Health & Care ,NW10 3RY,51.5428495,-0.2356914
+London,NHS North Central London CCG,Recreation Centre on Royal Free Hospital Site ,NW3 2QG,51.5536727,-0.1641721
+London,NHS North Central London CCG ,Dr Azim and Partners,NW4 3EB,51.5796281,-0.2257015
+London,NHS South West London CCG,Mitcham Lane Baptist Church,SW16 6NT,51.4211688,-0.1457384
+London,NHS South East London CCG,Hetherington Group Practice,SW4 7NU,51.4612329,-0.1282739
+London,NHS North West London CCG ,Parson's Green Health Centre,SW6 4UL,51.4743206,-0.2000123
+London,NHS South East London CCG,Community House,48009,42.5446846,-83.2173706
+London,NHS South East London CCG,Downham Health and Leisure Centre,BR1 5EP,51.426176,0.0122851
+London,NHS South West London CCG,St Pauls Church,16801,40.7961857,-77.8587073
+London,NHS South West London CCG,Fairfield Halls ,CR9 1DG,51.3722705,-0.0955318
+London,NHS Tower Hamlets CCG,Cable Street Surgery  ,E1W 3DP,51.5114909,-0.0477878
+London,NHS Tower Hamlets CCG,Newby Place Health and Wellbeing Centre,E14 0EY,51.5109114,-0.0127224
+London,NHS City and Hackney CCG,Bocking Centre,CM7 9AE,51.8805141,0.5510632
+London,NHS North West London CCG ,Byron Hall,HA3 5BD,51.5926927,-0.326804
+London,NHS South West London CCG,New Malden United Reformed Church,KT3 6DN,51.3978382,-0.2547815
+London,NHS South West London CCG,The Greenwood Centre,NW5 1LB,51.5528402,-0.1434038
+London,NHS Hounslow CCG,Thornbury Road Health Centre,TW7 4HQ,51.4746041,-0.346376
+London,NHS Hillingdon CCG,Navnat Centre ,UB3 1AR,51.5089686,-0.4252155
+London,NHS North West London CCG ,White City Community Centre,W12 7QT,51.5116653,-0.233132
+South East,NHS East Sussex CCG,Etchingham Village Hall,TN19 7BY,51.0074047,0.429686
+South East,NHS Kent and Medway CCG,Lydd Airport,TN29 9QL,50.9557337,0.9335221
+South East,NHS Buckinghamshire CCG,Buckingham Community Centre,MK18 1RP,52.000833,-0.9844725999999999
+South East,East Kent,Folkestone Civic Centre,CT20 2QY,51.0795898,1.1703048
+South East,East Kent,Folkestone Civic Centre,CT20 2QY,51.0794923,1.1698403
+South East,NHS West Sussex CCG,Riverbank Medical Centre,GU29 9AW,50.99371559999999,-0.7360595999999999
+East of England,NHS Cambridgeshire and Peterborough CCG,Clay Farm Medical Centre,CB2 9FN,52.1735505,0.1224392
+East of England,NHS Cambridgeshire and Peterborough CCG,Over conference & Community Centre,15222,40.4390393,-80.0060988
+East of England,NHS Cambridgeshire and Peterborough CCG,Milton Community Hall,L9T 6Z5,43.510822,-79.88334499999999
+East of England,NHS Cambridgeshire and Peterborough CCG,East Barnwell Health Centre,CB5 8SP,52.2148037,0.168957
+East of England,NHS Cambridgeshire and Peterborough CCG,Doddington Hospital,PE15 0UG,52.4998963,0.0558527
+East of England,NHS Cambridgeshire and Peterborough CCG,Little Paxton,PE19,52.2503764,-0.2584094
+East of England,NHS Cambridgeshire and Peterborough CCG,Alconbury Practice ,PE28 4EQ,52.3714506,-0.2585913
+Midlands,NHS Nottingham and Nottinghamshire CCG,Forest Recreation Ground,NG7 6LB,52.9660416,-1.1592548
+Midlands,NHS Herefordshire and Worcestershire CCG,St Johns House Medical Centre,WR2 5FB,52.18876119999999,-2.2590812
+North East and Yorkshire,NHS North Yorkshire CCG,Ripon Air Cadets,HG4 2DW,54.1410371,-1.5487308
+North West,NHS Manchester CCG,Plant Hill Clinic,M9 8LX,53.5270582,-2.2250072
+North West,NHS Bolton CCG,Kildonan House,PH42 4RL,56.888946,-6.122903
+North West,"NHS Heywood, Middleton and Rochdale CCG",Littleborough Sports Centre,OL15 9JN,53.649693,-2.0990967
+South West,NHS Kernow CCG,"Isles of Scilly Health Centre (deliver to mainland - Helston Medical Centre, Trelawney Road, Helston, TR13 8AU)",TR13 8AU,50.09970980000001,-5.2699979
+South West,NHS Kernow CCG,Clays Practice,PL26 8JF,50.4092928,-4.8329971
+East of England,NHS Cambridgeshire and Peterborough CCG,Royston Health Centre,SG8 7BS,52.0487017,-0.020586

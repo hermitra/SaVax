@@ -1,0 +1,98 @@
+To be done: 
+Need to work out how this all works with each other (definitely hardest part)
+    userHome:
+        input:
+            location {‘lat’: int , ‘lng’: int}
+            email (string)
+            return:
+            Json of clinics
+            Each Clinic has 
+            clinicName (string)
+            location{‘lat’: int , ‘lng’: int}
+        alerts :
+                -input:
+                    - location {‘lat’: int , ‘lng’: int}
+                -return 
+                    - Json of Alerts:
+                        - clinicName (string)
+                        -soonToExpire (int) (from Clinic table)
+                        - alertId (uuid/int)
+                        - email = null
+    acceptAlert:
+        input:
+            email (string)
+            To associate a user with an alert
+            alertId (
+            location {‘lat’: int , ‘lng’: int}
+
+Completed (But Not Tested):
+
+    userReg:
+        input
+            name (String)
+            nhs_id (String)
+            sex (String)
+            conditions (array of string)
+            location {‘lat’: int , ‘lng’: int}
+            radius : string
+            DOB : string 
+            Phone: string
+            email: string
+            password : string
+        return
+            response (bool)
+
+    adminReg:
+        input:
+            name (String)
+            work.email (String) (only NHS email - parsed on backend)
+            clinicName (String)
+            password (String)
+        return
+            response (bool)
+
+    LogIn:
+        input:
+            email (String)
+            password (String)
+            location {‘lat’: int , ‘lng’: int}
+        return:
+            response (boolean)
+            isAdmin (boolean)
+
+    adminProfile:
+        input:
+            email (string)
+        return: (values associated with the email)
+            clinicName (string)
+            fullName (string)
+    
+    updateAdminProfile:
+        input:
+            email (string)
+            clinicName (string)
+            fullName (string)
+        return: 
+            response (bool)
+    
+    updateFinalShots:
+        input:
+            email (string)
+            shotNum (string)
+        return: 
+            response (bool)
+    
+    updateExpiredShots:
+        input:
+            email (string)
+            shotExpireNum (string)
+        return: 
+            response (bool)
+    
+    updateNHSVax:
+        input:
+            nhs_id (string)
+            date (Month, Day, Year)
+        return: 
+            response (bool)
+Finished/Tested Correclty:
